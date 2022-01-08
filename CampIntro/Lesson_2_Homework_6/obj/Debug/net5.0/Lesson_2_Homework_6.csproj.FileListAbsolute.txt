@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Lesson_2_Homework_6\bin\Debug\net5.0\Lesson_2_Homework_6.exe
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Lesson_2_Homework_6\bin\Debug\net5.0\Lesson_2_Homework_6.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Lesson_2_Homework_6\bin\Debug\net5.0\Lesson_2_Homework_6.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Lesson_2_Homework_6\bin\Debug\net5.0\Lesson_2_Homework_6.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Lesson_2_Homework_6\bin\Debug\net5.0\Lesson_2_Homework_6.dll
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Lesson_2_Homework_6\bin\Debug\net5.0\ref\Lesson_2_Homework_6.dll
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Lesson_2_Homework_6\bin\Debug\net5.0\Lesson_2_Homework_6.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Lesson_2_Homework_6\obj\Debug\net5.0\Lesson_2_Homework_6.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Lesson_2_Homework_6\obj\Debug\net5.0\Lesson_2_Homework_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Lesson_2_Homework_6\obj\Debug\net5.0\Lesson_2_Homework_6.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Lesson_2_Homework_6\obj\Debug\net5.0\Lesson_2_Homework_6.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Lesson_2_Homework_6\obj\Debug\net5.0\Lesson_2_Homework_6.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Lesson_2_Homework_6\obj\Debug\net5.0\Lesson_2_Homework_6.dll
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Lesson_2_Homework_6\obj\Debug\net5.0\ref\Lesson_2_Homework_6.dll
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Lesson_2_Homework_6\obj\Debug\net5.0\Lesson_2_Homework_6.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Lesson_2_Homework_6\obj\Debug\net5.0\Lesson_2_Homework_6.genruntimeconfig.cache
