@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassIntro\bin\Debug\net5.0\ClassIntro.exe
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassIntro\bin\Debug\net5.0\ClassIntro.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassIntro\bin\Debug\net5.0\ClassIntro.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassIntro\bin\Debug\net5.0\ClassIntro.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassIntro\bin\Debug\net5.0\ClassIntro.dll
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassIntro\bin\Debug\net5.0\ref\ClassIntro.dll
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassIntro\bin\Debug\net5.0\ClassIntro.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassIntro\obj\Debug\net5.0\ClassIntro.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassIntro\obj\Debug\net5.0\ClassIntro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassIntro\obj\Debug\net5.0\ClassIntro.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassIntro\obj\Debug\net5.0\ClassIntro.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassIntro\obj\Debug\net5.0\ClassIntro.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassIntro\obj\Debug\net5.0\ClassIntro.dll
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassIntro\obj\Debug\net5.0\ref\ClassIntro.dll
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassIntro\obj\Debug\net5.0\ClassIntro.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassIntro\obj\Debug\net5.0\ClassIntro.genruntimeconfig.cache
