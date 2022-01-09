@@ -1,0 +1,15 @@
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassMethodDemo\bin\Debug\net5.0\ClassMethodDemo.exe
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassMethodDemo\bin\Debug\net5.0\ClassMethodDemo.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassMethodDemo\bin\Debug\net5.0\ClassMethodDemo.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassMethodDemo\bin\Debug\net5.0\ClassMethodDemo.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassMethodDemo\bin\Debug\net5.0\ClassMethodDemo.dll
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassMethodDemo\bin\Debug\net5.0\ref\ClassMethodDemo.dll
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassMethodDemo\bin\Debug\net5.0\ClassMethodDemo.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassMethodDemo\obj\Debug\net5.0\ClassMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassMethodDemo\obj\Debug\net5.0\ClassMethodDemo.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassMethodDemo\obj\Debug\net5.0\ClassMethodDemo.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassMethodDemo\obj\Debug\net5.0\ClassMethodDemo.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassMethodDemo\obj\Debug\net5.0\ClassMethodDemo.dll
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassMethodDemo\obj\Debug\net5.0\ref\ClassMethodDemo.dll
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassMethodDemo\obj\Debug\net5.0\ClassMethodDemo.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\ClassMethodDemo\obj\Debug\net5.0\ClassMethodDemo.genruntimeconfig.cache
