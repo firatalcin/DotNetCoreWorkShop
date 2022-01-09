@@ -1,0 +1,15 @@
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Matematik\bin\Debug\net5.0\Matematik.exe
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Matematik\bin\Debug\net5.0\Matematik.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Matematik\bin\Debug\net5.0\Matematik.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Matematik\bin\Debug\net5.0\Matematik.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Matematik\bin\Debug\net5.0\Matematik.dll
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Matematik\bin\Debug\net5.0\ref\Matematik.dll
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Matematik\bin\Debug\net5.0\Matematik.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Matematik\obj\Debug\net5.0\Matematik.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Matematik\obj\Debug\net5.0\Matematik.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Matematik\obj\Debug\net5.0\Matematik.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Matematik\obj\Debug\net5.0\Matematik.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Matematik\obj\Debug\net5.0\Matematik.dll
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Matematik\obj\Debug\net5.0\ref\Matematik.dll
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Matematik\obj\Debug\net5.0\Matematik.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Matematik\obj\Debug\net5.0\Matematik.genruntimeconfig.cache
