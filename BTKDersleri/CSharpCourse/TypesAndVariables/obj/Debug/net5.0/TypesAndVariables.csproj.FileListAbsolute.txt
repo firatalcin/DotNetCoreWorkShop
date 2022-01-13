@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\TypesAndVariables.exe
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\TypesAndVariables.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\TypesAndVariables.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\TypesAndVariables.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\TypesAndVariables.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\ref\TypesAndVariables.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\TypesAndVariables.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\ref\TypesAndVariables.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.genruntimeconfig.cache

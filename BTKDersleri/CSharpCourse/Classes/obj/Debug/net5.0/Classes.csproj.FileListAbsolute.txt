@@ -1,0 +1,15 @@
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Classes\bin\Debug\net5.0\Classes.exe
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Classes\bin\Debug\net5.0\Classes.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Classes\bin\Debug\net5.0\Classes.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Classes\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Classes\bin\Debug\net5.0\Classes.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Classes\bin\Debug\net5.0\ref\Classes.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Classes\bin\Debug\net5.0\Classes.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Classes\obj\Debug\net5.0\Classes.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Classes\obj\Debug\net5.0\ref\Classes.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Classes\obj\Debug\net5.0\Classes.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Classes\obj\Debug\net5.0\Classes.genruntimeconfig.cache

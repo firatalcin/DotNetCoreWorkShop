@@ -1,0 +1,10 @@
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.exe
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.pdb

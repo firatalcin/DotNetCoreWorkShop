@@ -1,0 +1,15 @@
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\VirtualMethod\bin\Debug\net5.0\VirtualMethod.exe
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\VirtualMethod\bin\Debug\net5.0\VirtualMethod.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\VirtualMethod\bin\Debug\net5.0\VirtualMethod.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\VirtualMethod\bin\Debug\net5.0\VirtualMethod.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\VirtualMethod\bin\Debug\net5.0\VirtualMethod.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\VirtualMethod\bin\Debug\net5.0\ref\VirtualMethod.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\VirtualMethod\bin\Debug\net5.0\VirtualMethod.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\VirtualMethod\obj\Debug\net5.0\VirtualMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\VirtualMethod\obj\Debug\net5.0\VirtualMethod.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\VirtualMethod\obj\Debug\net5.0\VirtualMethod.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\VirtualMethod\obj\Debug\net5.0\VirtualMethod.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\VirtualMethod\obj\Debug\net5.0\VirtualMethod.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\VirtualMethod\obj\Debug\net5.0\ref\VirtualMethod.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\VirtualMethod\obj\Debug\net5.0\VirtualMethod.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\VirtualMethod\obj\Debug\net5.0\VirtualMethod.genruntimeconfig.cache

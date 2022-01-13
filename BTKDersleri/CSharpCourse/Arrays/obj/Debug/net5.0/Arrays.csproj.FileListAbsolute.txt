@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Arrays\bin\Debug\net5.0\Arrays.exe
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Arrays\bin\Debug\net5.0\Arrays.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Arrays\bin\Debug\net5.0\Arrays.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Arrays\bin\Debug\net5.0\Arrays.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Arrays\obj\Debug\net5.0\Arrays.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Arrays\obj\Debug\net5.0\Arrays.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
