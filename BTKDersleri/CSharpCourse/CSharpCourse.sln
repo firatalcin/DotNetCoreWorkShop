@@ -19,15 +19,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1", "RecapDemo1\RecapDemo1.csproj", "{4AF9A8E9-8100-46E4-9549-80BA3969D9E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{78A5B211-DF4B-4DEB-85D2-709A8F908750}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{78A5B211-DF4B-4DEB-85D2-709A8F908750}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{697EF8A1-A7F2-4233-B3DA-8AA7E30E994F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{697EF8A1-A7F2-4233-B3DA-8AA7E30E994F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{56FE0AE1-3B4E-4D04-BA1A-DE86F468F134}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{56FE0AE1-3B4E-4D04-BA1A-DE86F468F134}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualMethod", "VirtualMethod\VirtualMethod.csproj", "{812A6165-790A-4AD1-B792-5D5E2F79DEA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualMethod", "VirtualMethod\VirtualMethod.csproj", "{812A6165-790A-4AD1-B792-5D5E2F79DEA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{CFBA891F-B784-4DFE-8224-332D7FFFA809}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{CFBA891F-B784-4DFE-8224-332D7FFFA809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo2", "RecapDemo2\RecapDemo2.csproj", "{281C67BD-5A31-48A4-9F42-5750A2D99DC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{8735369E-B2B5-4D63-8796-3E3494E9B6DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiersDemo", "AccessModifiersDemo\AccessModifiersDemo.csproj", "{0DA1735A-6123-468F-A657-4341F54D93C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{B161C7A1-50F7-435D-B7F6-37D741A08D3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +95,22 @@ Global
 		{CFBA891F-B784-4DFE-8224-332D7FFFA809}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFBA891F-B784-4DFE-8224-332D7FFFA809}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFBA891F-B784-4DFE-8224-332D7FFFA809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{281C67BD-5A31-48A4-9F42-5750A2D99DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281C67BD-5A31-48A4-9F42-5750A2D99DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281C67BD-5A31-48A4-9F42-5750A2D99DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281C67BD-5A31-48A4-9F42-5750A2D99DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8735369E-B2B5-4D63-8796-3E3494E9B6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8735369E-B2B5-4D63-8796-3E3494E9B6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8735369E-B2B5-4D63-8796-3E3494E9B6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8735369E-B2B5-4D63-8796-3E3494E9B6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA1735A-6123-468F-A657-4341F54D93C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA1735A-6123-468F-A657-4341F54D93C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA1735A-6123-468F-A657-4341F54D93C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA1735A-6123-468F-A657-4341F54D93C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B161C7A1-50F7-435D-B7F6-37D741A08D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B161C7A1-50F7-435D-B7F6-37D741A08D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B161C7A1-50F7-435D-B7F6-37D741A08D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B161C7A1-50F7-435D-B7F6-37D741A08D3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

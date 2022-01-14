@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo2\obj\Debug\net5.0\RecapDemo2.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo2\obj\Debug\net5.0\RecapDemo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo2\obj\Debug\net5.0\RecapDemo2.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo2\obj\Debug\net5.0\RecapDemo2.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo2\obj\Debug\net5.0\RecapDemo2.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo2\bin\Debug\net5.0\RecapDemo2.exe
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo2\bin\Debug\net5.0\RecapDemo2.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo2\bin\Debug\net5.0\RecapDemo2.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo2\bin\Debug\net5.0\RecapDemo2.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo2\bin\Debug\net5.0\RecapDemo2.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo2\bin\Debug\net5.0\ref\RecapDemo2.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo2\bin\Debug\net5.0\RecapDemo2.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo2\obj\Debug\net5.0\RecapDemo2.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo2\obj\Debug\net5.0\ref\RecapDemo2.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo2\obj\Debug\net5.0\RecapDemo2.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\RecapDemo2\obj\Debug\net5.0\RecapDemo2.genruntimeconfig.cache

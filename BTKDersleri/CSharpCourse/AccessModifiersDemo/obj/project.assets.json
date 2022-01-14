@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "AccessModifiers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/AccessModifiers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AccessModifiers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccessModifiers/1.0.0": {
+      "type": "project",
+      "path": "../AccessModifiers/AccessModifiers.csproj",
+      "msbuildProject": "../AccessModifiers/AccessModifiers.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "AccessModifiers >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\firatalcin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Kurslar\\ASP.NET_MVC_CORE\\BTK-EnginDemirog\\CSharpCourse\\AccessModifiersDemo\\AccessModifiersDemo.csproj",
+      "projectName": "AccessModifiersDemo",
+      "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\BTK-EnginDemirog\\CSharpCourse\\AccessModifiersDemo\\AccessModifiersDemo.csproj",
+      "packagesPath": "C:\\Users\\firatalcin\\.nuget\\packages\\",
+      "outputPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\BTK-EnginDemirog\\CSharpCourse\\AccessModifiersDemo\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\firatalcin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\Kurslar\\ASP.NET_MVC_CORE\\BTK-EnginDemirog\\CSharpCourse\\AccessModifiers\\AccessModifiers.csproj": {
+              "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\BTK-EnginDemirog\\CSharpCourse\\AccessModifiers\\AccessModifiers.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
