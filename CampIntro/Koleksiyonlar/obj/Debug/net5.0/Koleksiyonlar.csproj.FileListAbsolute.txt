@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.exe
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.dll
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Koleksiyonlar\bin\Debug\net5.0\ref\Koleksiyonlar.dll
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.dll
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Koleksiyonlar\obj\Debug\net5.0\ref\Koleksiyonlar.dll
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\CampIntro\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.genruntimeconfig.cache
