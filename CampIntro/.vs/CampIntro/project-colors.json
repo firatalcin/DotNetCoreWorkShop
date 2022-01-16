@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3bbb4abf-dcf9-479b-9554-a813b311fca1": {
+      "ProjectGuid": "3bbb4abf-dcf9-479b-9554-a813b311fca1",
+      "DisplayName": "OOP2",
+      "ColorIndex": 0
+    },
+    "194ba785-35a4-441c-b1ff-51e5bffe81fb": {
+      "ProjectGuid": "194ba785-35a4-441c-b1ff-51e5bffe81fb",
+      "DisplayName": "OOP3",
+      "ColorIndex": 1
+    },
+    "5667efd8-8646-435b-8323-a214757af38c": {
+      "ProjectGuid": "5667efd8-8646-435b-8323-a214757af38c",
+      "DisplayName": "Lesson_5_Homework_5",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
