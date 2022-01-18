@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\InterfacesDemo\bin\Debug\net5.0\InterfacesDemo.exe
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\InterfacesDemo\bin\Debug\net5.0\InterfacesDemo.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\InterfacesDemo\bin\Debug\net5.0\InterfacesDemo.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\InterfacesDemo\bin\Debug\net5.0\InterfacesDemo.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\InterfacesDemo\bin\Debug\net5.0\InterfacesDemo.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\InterfacesDemo\bin\Debug\net5.0\ref\InterfacesDemo.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\InterfacesDemo\bin\Debug\net5.0\InterfacesDemo.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\InterfacesDemo\obj\Debug\net5.0\ref\InterfacesDemo.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.genruntimeconfig.cache

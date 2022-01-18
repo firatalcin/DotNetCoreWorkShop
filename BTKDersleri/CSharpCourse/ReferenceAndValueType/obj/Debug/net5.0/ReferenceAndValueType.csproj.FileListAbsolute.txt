@@ -13,3 +13,4 @@ D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\ReferenceAndValueType\
 D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\ReferenceAndValueType\obj\Debug\net5.0\ref\ReferenceAndValueType.dll
 D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\ReferenceAndValueType\obj\Debug\net5.0\ReferenceAndValueType.pdb
 D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\ReferenceAndValueType\obj\Debug\net5.0\ReferenceAndValueType.genruntimeconfig.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\ReferenceAndValueType\obj\Debug\net5.0\ReferenceAndValueType.csproj.AssemblyReference.cache

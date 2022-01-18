@@ -1,0 +1,15 @@
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Form1.resources
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Properties.Resources.resources
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.GenerateResource.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CopyComplete
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb

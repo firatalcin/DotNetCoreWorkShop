@@ -13,3 +13,4 @@ D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\VirtualMethod\obj\Debu
 D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\VirtualMethod\obj\Debug\net5.0\ref\VirtualMethod.dll
 D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\VirtualMethod\obj\Debug\net5.0\VirtualMethod.pdb
 D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\VirtualMethod\obj\Debug\net5.0\VirtualMethod.genruntimeconfig.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\VirtualMethod\obj\Debug\net5.0\VirtualMethod.csproj.AssemblyReference.cache

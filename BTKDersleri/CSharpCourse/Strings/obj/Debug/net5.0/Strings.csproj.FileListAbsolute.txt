@@ -13,3 +13,4 @@ D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Strings\obj\Debug\net5
 D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Strings\obj\Debug\net5.0\ref\Strings.dll
 D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Strings\obj\Debug\net5.0\Strings.pdb
 D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Strings\obj\Debug\net5.0\Strings.genruntimeconfig.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Strings\obj\Debug\net5.0\Strings.csproj.AssemblyReference.cache

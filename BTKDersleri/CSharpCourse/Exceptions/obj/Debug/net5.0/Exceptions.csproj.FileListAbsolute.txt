@@ -13,3 +13,4 @@ D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Exceptions\obj\Debug\n
 D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Exceptions\obj\Debug\net5.0\ref\Exceptions.dll
 D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Exceptions\obj\Debug\net5.0\Exceptions.pdb
 D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Exceptions\obj\Debug\net5.0\Exceptions.genruntimeconfig.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Exceptions\obj\Debug\net5.0\Exceptions.csproj.AssemblyReference.cache

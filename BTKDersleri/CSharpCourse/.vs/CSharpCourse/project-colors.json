@@ -25,7 +25,22 @@
       "ProjectGuid": "06131f87-a9e2-4314-bfc9-f8c139926d07",
       "DisplayName": "Exceptions",
       "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5ea0a18d-01fc-4efa-ab8a-61403c261bf4": {
+      "ProjectGuid": "5ea0a18d-01fc-4efa-ab8a-61403c261bf4",
+      "DisplayName": "AdoNetDemo",
+      "ColorIndex": 5
+    },
+    "8fbce434-fe28-443d-b3ab-915553c446b3": {
+      "ProjectGuid": "8fbce434-fe28-443d-b3ab-915553c446b3",
+      "DisplayName": "AdoNetDemoOne",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 7
 }

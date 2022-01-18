@@ -13,3 +13,4 @@ D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\AbstractClasses\obj\De
 D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\AbstractClasses\obj\Debug\net5.0\ref\AbstractClasses.dll
 D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\AbstractClasses\obj\Debug\net5.0\AbstractClasses.pdb
 D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\AbstractClasses\obj\Debug\net5.0\AbstractClasses.genruntimeconfig.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\AbstractClasses\obj\Debug\net5.0\AbstractClasses.csproj.AssemblyReference.cache

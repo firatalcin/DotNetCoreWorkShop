@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.32112.339
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypesAndVariables", "TypesAndVariables\TypesAndVariables.csproj", "{E3F337C7-14BC-4BC0-81F1-D3711C097104}"
 EndProject
@@ -37,11 +37,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessModifiersDemo", "Acce
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{B161C7A1-50F7-435D-B7F6-37D741A08D3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceAndValueType", "ReferenceAndValueType\ReferenceAndValueType.csproj", "{2AA497CE-74CB-4ED7-8D6C-F7FC120F29E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceAndValueType", "ReferenceAndValueType\ReferenceAndValueType.csproj", "{2AA497CE-74CB-4ED7-8D6C-F7FC120F29E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{56E6D2B5-9EA8-4086-9AB3-2B25B67A31C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{56E6D2B5-9EA8-4086-9AB3-2B25B67A31C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{06131F87-A9E2-4314-BFC9-F8C139926D07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exceptions", "Exceptions\Exceptions.csproj", "{06131F87-A9E2-4314-BFC9-F8C139926D07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNetDemo", "AdoNetDemo\AdoNetDemo.csproj", "{1BB55C5D-D935-4CB3-9EB3-19804301407C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkDemo", "EntityFrameworkDemo\EntityFrameworkDemo.csproj", "{1C3A8D64-8920-4D9A-B342-13E64D7F9661}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +133,14 @@ Global
 		{06131F87-A9E2-4314-BFC9-F8C139926D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06131F87-A9E2-4314-BFC9-F8C139926D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06131F87-A9E2-4314-BFC9-F8C139926D07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BB55C5D-D935-4CB3-9EB3-19804301407C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB55C5D-D935-4CB3-9EB3-19804301407C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB55C5D-D935-4CB3-9EB3-19804301407C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB55C5D-D935-4CB3-9EB3-19804301407C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C3A8D64-8920-4D9A-B342-13E64D7F9661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3A8D64-8920-4D9A-B342-13E64D7F9661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3A8D64-8920-4D9A-B342-13E64D7F9661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3A8D64-8920-4D9A-B342-13E64D7F9661}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
