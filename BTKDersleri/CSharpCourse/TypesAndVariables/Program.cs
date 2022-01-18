@@ -15,6 +15,8 @@ namespace TypesAndVariables
             char character = 'A';
             double number5 = 10.4;
             decimal number6 = 10;
+            int number7 = 10;
+            Console.WriteLine(number7);
             Console.WriteLine(number1);
             Console.WriteLine(number2);
             Console.WriteLine(number3);

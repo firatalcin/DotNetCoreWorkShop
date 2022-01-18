@@ -1,0 +1,15 @@
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Exceptions\bin\Debug\net5.0\Exceptions.exe
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Exceptions\bin\Debug\net5.0\Exceptions.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Exceptions\bin\Debug\net5.0\Exceptions.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Exceptions\bin\Debug\net5.0\ref\Exceptions.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Exceptions\bin\Debug\net5.0\Exceptions.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Exceptions\obj\Debug\net5.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Exceptions\obj\Debug\net5.0\Exceptions.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Exceptions\obj\Debug\net5.0\Exceptions.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Exceptions\obj\Debug\net5.0\ref\Exceptions.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Exceptions\obj\Debug\net5.0\Exceptions.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\Exceptions\obj\Debug\net5.0\Exceptions.genruntimeconfig.cache

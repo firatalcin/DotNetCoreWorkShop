@@ -1,0 +1,15 @@
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\ReferenceAndValueType\bin\Debug\net5.0\ReferenceAndValueType.exe
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\ReferenceAndValueType\bin\Debug\net5.0\ReferenceAndValueType.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\ReferenceAndValueType\bin\Debug\net5.0\ReferenceAndValueType.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\ReferenceAndValueType\bin\Debug\net5.0\ReferenceAndValueType.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\ReferenceAndValueType\bin\Debug\net5.0\ReferenceAndValueType.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\ReferenceAndValueType\bin\Debug\net5.0\ref\ReferenceAndValueType.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\ReferenceAndValueType\bin\Debug\net5.0\ReferenceAndValueType.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\ReferenceAndValueType\obj\Debug\net5.0\ReferenceAndValueType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\ReferenceAndValueType\obj\Debug\net5.0\ReferenceAndValueType.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\ReferenceAndValueType\obj\Debug\net5.0\ReferenceAndValueType.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\ReferenceAndValueType\obj\Debug\net5.0\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\ReferenceAndValueType\obj\Debug\net5.0\ReferenceAndValueType.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\ReferenceAndValueType\obj\Debug\net5.0\ref\ReferenceAndValueType.dll
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\ReferenceAndValueType\obj\Debug\net5.0\ReferenceAndValueType.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\BTK-EnginDemirog\CSharpCourse\ReferenceAndValueType\obj\Debug\net5.0\ReferenceAndValueType.genruntimeconfig.cache
