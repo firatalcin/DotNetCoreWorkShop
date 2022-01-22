@@ -1,0 +1,6 @@
+Select p.ProductName as UrunAdi, SUM(od.UnitPrice * od.Quantity) as KazanilanToplamPara 
+from Products as p
+inner join [Order Details] as od on p.ProductID = od.ProductID
+inner join Orders as o on od.OrderID = o.OrderID
+group by p.ProductName
+order by KazanilanToplamPara desc
