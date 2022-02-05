@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "83384e18-31fe-4d38-beac-6b2facce563e": {
+      "ProjectGuid": "83384e18-31fe-4d38-beac-6b2facce563e",
+      "DisplayName": "Entities",
+      "ColorIndex": 0
+    },
+    "5dbe17eb-b345-4b51-b375-48d87d23004f": {
+      "ProjectGuid": "5dbe17eb-b345-4b51-b375-48d87d23004f",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    },
+    "d6d45e7b-4937-4fa1-9435-de3f1c1977fa": {
+      "ProjectGuid": "d6d45e7b-4937-4fa1-9435-de3f1c1977fa",
+      "DisplayName": "Business",
+      "ColorIndex": 2
+    },
+    "fc965471-68f3-4fe7-b558-003649a69b8e": {
+      "ProjectGuid": "fc965471-68f3-4fe7-b558-003649a69b8e",
+      "DisplayName": "ConsoleUI",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
