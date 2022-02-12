@@ -8,3 +8,13 @@ D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\FinalProject\Entities\obj\Debug
 D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\FinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
 D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\FinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.dll
 D:\Kurslar\ASP.NET_MVC_CORE\Kodlama-EnginDemirog\FinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FinalProject\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FinalProject\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FinalProject\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
