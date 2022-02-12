@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\ConsoleUI\\ConsoleUI.csproj": {}
+    "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\ConsoleUI\\ConsoleUI.csproj": {}
   },
   "projects": {
-    "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Business\\Business.csproj": {
+    "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\firatalcin\\.nuget\\packages\\",
-        "outputPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Business\\obj\\",
+        "outputPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\firatalcin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\DataAccess\\DataAccess.csproj"
               },
-              "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Entities\\Entities.csproj"
+              "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\ConsoleUI\\ConsoleUI.csproj": {
+    "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+        "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
         "packagesPath": "C:\\Users\\firatalcin\\.nuget\\packages\\",
-        "outputPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\ConsoleUI\\obj\\",
+        "outputPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\firatalcin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,14 +89,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Business\\Business.csproj": {
-                "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Business\\Business.csproj"
+              "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Business\\Business.csproj"
               },
-              "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\DataAccess\\DataAccess.csproj"
               },
-              "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Entities\\Entities.csproj"
+              "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -129,14 +129,14 @@
         }
       }
     },
-    "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\firatalcin\\.nuget\\packages\\",
-        "outputPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\firatalcin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -153,8 +153,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Entities\\Entities.csproj"
+              "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -187,14 +187,14 @@
         }
       }
     },
-    "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\firatalcin\\.nuget\\packages\\",
-        "outputPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\firatalcin\\AppData\\Roaming\\NuGet\\NuGet.Config",

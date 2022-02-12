@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/83tNxKsP5gSraZCXiC3hyyPUllO8yOQUYW6szUnbFPdRH7oXEYfJtQ0VXFJC8bzKEQIiIlqiuNusm1W7Ksq1g==",
+  "dgSpecHash": "78yCj+4NVDcKywzESgivoagJfqTZa09dzlvm6RIjhcw/+a48xpAMolMitAWzfyVIZcSfLk42gTzQp4Y/p7W0xA==",
   "success": true,
-  "projectFilePath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

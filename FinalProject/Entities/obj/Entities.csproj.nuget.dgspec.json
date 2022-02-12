@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Entities\\Entities.csproj": {}
+    "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\firatalcin\\.nuget\\packages\\",
-        "outputPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\FinalProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FinalProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\firatalcin\\AppData\\Roaming\\NuGet\\NuGet.Config",
