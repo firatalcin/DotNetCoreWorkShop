@@ -80,3 +80,5 @@ C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FinalProject\ConsoleUI\obj\Debu
 C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
 C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
 C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
