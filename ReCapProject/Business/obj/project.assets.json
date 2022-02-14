@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\ReCapProject\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\ReCapProject\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\ReCapProject\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\ReCapProject\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\firatalcin\\.nuget\\packages\\",
-      "outputPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\ReCapProject\\Business\\obj\\",
+      "outputPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\ReCapProject\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\firatalcin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,11 +72,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\ReCapProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\ReCapProject\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\ReCapProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\ReCapProject\\DataAccess\\DataAccess.csproj"
             },
-            "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\ReCapProject\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\Kodlama-EnginDemirog\\ReCapProject\\Entities\\Entities.csproj"
+            "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\ReCapProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\ReCapProject\\Entities\\Entities.csproj"
             }
           }
         }
