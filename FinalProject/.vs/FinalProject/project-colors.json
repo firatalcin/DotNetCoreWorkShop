@@ -20,7 +20,12 @@
       "ProjectGuid": "a216635f-2e55-4b5f-a461-dec9853211a3",
       "DisplayName": "ConsoleUI",
       "ColorIndex": 3
+    },
+    "66d9442b-5b7a-480c-96be-d419e2c6eac3": {
+      "ProjectGuid": "66d9442b-5b7a-480c-96be-d419e2c6eac3",
+      "DisplayName": "Core",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }
