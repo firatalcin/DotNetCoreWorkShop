@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ReCapProject",
+    "\\ReCapProject\\Business",
+    "\\ReCapProject\\Business\\Concrete"
   ],
-  "SelectedNode": "\\FinalProject.sln",
+  "SelectedNode": "\\ReCapProject\\Business\\Concrete\\CarManager.cs",
   "PreviewInSolutionExplorer": false
 }
