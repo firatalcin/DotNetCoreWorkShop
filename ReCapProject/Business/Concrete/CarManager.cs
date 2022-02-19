@@ -1,4 +1,6 @@
 ﻿using Business.Abstract;
+using Business.Constants;
+using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
 using Entities.DTOs;
@@ -17,34 +19,51 @@ namespace Business.Concrete
                 _carDal = carDal;
         }
 
-        public void Add(Car car)
+        public IResult Add(Car car)
         {
+            if(car.Description.Length < 2)
+            {
+                return new ErrorResult(Messages.CarIsInvalid);
+            }
             _carDal.Add(car);
+            return new SuccessResult(Messages.CarAdded);
+
         }
 
-        public void Delete(Car car)
+        public IResult Delete(Car car)
         {
+            if(car.CarId == 0)
+            {
+                return new ErrorResult(Messages.CarIsInvalid);
+            }
             _carDal.Delete(car);
+            return new SuccessResult(Messages.CarDeleted);
+
         }
 
-        public List<Car> GetAll()
+        public IDataResult<List<Car>> GetAll()
         {
-           return _carDal.GetAll();
+           return new SuccessDataResult<List<Car>>(_carDal.GetAll(),Messages.CarListed) ;
         }
 
-        public List<Car> GetAllByColorId(int colorId)
+        public IDataResult<List<Car>> GetAllByColorId(int colorId)
         {
-            return _carDal.GetAll(c => c.ColorId == colorId);
+            return new SuccessDataResult<List<Car>>(_carDal.GetAll(c => c.ColorId == colorId), Messages.CarListed) ;
         }
 
-        public List<CarDetailDto> GetCarDetail()
+        public IDataResult<List<CarDetailDto>> GetCarDetail()
         {
-            return _carDal.GetCarDetail();
+            return new SuccessDataResult<List<CarDetailDto>>(_carDal.GetCarDetail(), Messages.CarListed);
         }
 
-        public void Update(Car car)
+        public IResult Update(Car car)
         {
+            if (car.ModelYear < 2000)
+            {
+                return new ErrorResult(Messages.CarIsInvalid);
+            }
             _carDal.Update(car);
+            return new SuccessResult(Messages.CarUpdated);
         }
     }
 }
