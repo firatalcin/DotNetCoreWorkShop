@@ -4,13 +4,19 @@ using System.Text;
 
 namespace Core.Utilities.Results
 {
-    public class DataResult : IDataResult<Result>
+    public class DataResult<T> : Result,IDataResult<T>
     {
+        public T Data { get; }
 
-        public bool IsSuccess { get; }
 
-        public string Message { get; }
+        public DataResult(T data, bool success, string message): base(success, message)
+        {
+            Data = data;    
+        }
 
-        Result IDataResult<Result>.Data { get; }
+        public DataResult(T data, bool success):base(success)
+        {
+            Data = data;
+        }
     }
 }

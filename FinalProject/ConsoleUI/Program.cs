@@ -17,28 +17,22 @@ namespace ConsoleUI
             //CategoryTest();
 
             ProductManager productManager = new ProductManager(new EfProductDal());
-            foreach (var item in productManager.GetProductDetail())
-            {
-                Console.WriteLine(item.ProductId + " - " + item.ProductName + " - " + item.CategoryName + " - " + item.UnitsInStock);
-            }
-        }
 
-        private static void ProductTest()
-        {
-            ProductManager productManager = new ProductManager(new EfProductDal());
-            foreach (var item in productManager.GetAllByUnitPrice(40, 100))
-            {
-                Console.WriteLine(item.ProductName);
-            }
-        }
+            var result = productManager.GetProductDetail();
 
-        private static void CategoryTest()
-        {
-            CategoryManager categoryManager = new CategoryManager(new EfCategoryDal());
-            foreach (var item in categoryManager.GetAll())
+            if(result.IsSuccess == true)
             {
-                Console.WriteLine(item.CategoryName);
+                foreach (var item in result.Data)
+                {
+                    Console.WriteLine(item.ProductId + " - " + item.ProductName + " - " + item.CategoryName + " - " + item.UnitsInStock);
+                }
             }
+            else
+            {
+                Console.WriteLine(result.Message);
+            }
+
+            
         }
     }
 }
