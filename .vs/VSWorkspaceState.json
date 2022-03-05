@@ -2,12 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\FinalProject",
-    "\\FinalProject\\DataAccess",
+    "\\FinalProject\\Core",
+    "\\FinalProject\\Core\\Utilities",
+    "\\FinalProject\\Core\\Utilities\\Results",
     "\\FinalProject\\DataAccess\\Concrete",
     "\\FinalProject\\DataAccess\\Concrete\\EntityFramework",
-    "\\ReCapProject\\Business",
+    "\\ReCapProject",
     "\\ReCapProject\\Business\\Concrete"
   ],
-  "SelectedNode": "\\FinalProject\\DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
+  "SelectedNode": "\\FinalProject\\FinalProject.sln",
   "PreviewInSolutionExplorer": false
 }
