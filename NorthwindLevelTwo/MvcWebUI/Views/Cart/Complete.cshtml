@@ -1,0 +1,34 @@
+﻿@model ShippingDetailsViewModel
+@{
+    ViewData["Title"] = "Complete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form asp-controller="Cart" asp-action="Complete" method="post">
+    <div class="form-group">
+        <label asp-for="ShippingDetail.FirstName">Ad</label>
+        <input asp-for="ShippingDetail.FirstName" class="form-control" placeholder="Müşteri Adı"/>
+    </div>
+     <div class="form-group">
+        <label asp-for="ShippingDetail.LastName">Soyad</label>
+        <input asp-for="ShippingDetail.LastName" class="form-control" placeholder="Müşteri Soyadı"/>
+    </div>
+     <div class="form-group">
+        <label asp-for="ShippingDetail.Email">E-mail</label>
+        <input asp-for="ShippingDetail.Email" class="form-control" placeholder="E-Mail" type="email"/>
+    </div>
+     <div class="form-group">
+        <label asp-for="ShippingDetail.City">Şehir</label>
+        <input asp-for="ShippingDetail.City" class="form-control" placeholder="Şehir"/>
+    </div>
+     <div class="form-group">
+        <label asp-for="ShippingDetail.Address">Adres</label>
+        <input asp-for="ShippingDetail.Address" class="form-control" placeholder="Adres"/>
+    </div>
+     <div class="form-group">
+        <label asp-for="ShippingDetail.Age">Yaş</label>
+        <input asp-for="ShippingDetail.Age" class="form-control" placeholder="Yaş"/>
+    </div>
+    <input type="submit" value="Kaydet" class="btn btn-success btn-group-sm"/>
+</form>
+
