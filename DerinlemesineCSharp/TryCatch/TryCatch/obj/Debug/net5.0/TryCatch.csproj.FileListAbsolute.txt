@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\DerinlemesineCSharp\TryCatch\TryCatch\bin\Debug\net5.0\TryCatch.exe
+D:\Kurslar\ASP.NET_MVC_CORE\DerinlemesineCSharp\TryCatch\TryCatch\bin\Debug\net5.0\TryCatch.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\DerinlemesineCSharp\TryCatch\TryCatch\bin\Debug\net5.0\TryCatch.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\DerinlemesineCSharp\TryCatch\TryCatch\bin\Debug\net5.0\TryCatch.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\DerinlemesineCSharp\TryCatch\TryCatch\bin\Debug\net5.0\TryCatch.dll
+D:\Kurslar\ASP.NET_MVC_CORE\DerinlemesineCSharp\TryCatch\TryCatch\bin\Debug\net5.0\ref\TryCatch.dll
+D:\Kurslar\ASP.NET_MVC_CORE\DerinlemesineCSharp\TryCatch\TryCatch\bin\Debug\net5.0\TryCatch.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\DerinlemesineCSharp\TryCatch\TryCatch\obj\Debug\net5.0\TryCatch.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\DerinlemesineCSharp\TryCatch\TryCatch\obj\Debug\net5.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\DerinlemesineCSharp\TryCatch\TryCatch\obj\Debug\net5.0\TryCatch.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\DerinlemesineCSharp\TryCatch\TryCatch\obj\Debug\net5.0\TryCatch.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\DerinlemesineCSharp\TryCatch\TryCatch\obj\Debug\net5.0\TryCatch.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\DerinlemesineCSharp\TryCatch\TryCatch\obj\Debug\net5.0\TryCatch.dll
+D:\Kurslar\ASP.NET_MVC_CORE\DerinlemesineCSharp\TryCatch\TryCatch\obj\Debug\net5.0\ref\TryCatch.dll
+D:\Kurslar\ASP.NET_MVC_CORE\DerinlemesineCSharp\TryCatch\TryCatch\obj\Debug\net5.0\TryCatch.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\DerinlemesineCSharp\TryCatch\TryCatch\obj\Debug\net5.0\TryCatch.genruntimeconfig.cache
