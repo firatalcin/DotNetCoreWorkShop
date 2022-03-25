@@ -1,0 +1,15 @@
+D:\Kurslar\ASP.NET_MVC_CORE\ModernWebGelistirme\NorthwindBackend\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\ModernWebGelistirme\NorthwindBackend\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Kurslar\ASP.NET_MVC_CORE\ModernWebGelistirme\NorthwindBackend\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\ModernWebGelistirme\NorthwindBackend\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+D:\Kurslar\ASP.NET_MVC_CORE\ModernWebGelistirme\NorthwindBackend\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Kurslar\ASP.NET_MVC_CORE\ModernWebGelistirme\NorthwindBackend\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\ModernWebGelistirme\NorthwindBackend\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\ModernWebGelistirme\NorthwindBackend\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\ModernWebGelistirme\NorthwindBackend\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\ModernWebGelistirme\NorthwindBackend\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\ModernWebGelistirme\NorthwindBackend\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\ModernWebGelistirme\NorthwindBackend\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\ModernWebGelistirme\NorthwindBackend\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+D:\Kurslar\ASP.NET_MVC_CORE\ModernWebGelistirme\NorthwindBackend\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\Kurslar\ASP.NET_MVC_CORE\ModernWebGelistirme\NorthwindBackend\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
