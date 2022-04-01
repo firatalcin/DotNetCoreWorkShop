@@ -1,0 +1,15 @@
+D:\Kurslar\ASP.NET_MVC_CORE\IleriSeviyeCSharpDersleri-A-Z\Degiskenler\DegiskenlerDers\bin\Debug\net6.0\DegiskenlerDers.exe
+D:\Kurslar\ASP.NET_MVC_CORE\IleriSeviyeCSharpDersleri-A-Z\Degiskenler\DegiskenlerDers\bin\Debug\net6.0\DegiskenlerDers.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\IleriSeviyeCSharpDersleri-A-Z\Degiskenler\DegiskenlerDers\bin\Debug\net6.0\DegiskenlerDers.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\IleriSeviyeCSharpDersleri-A-Z\Degiskenler\DegiskenlerDers\bin\Debug\net6.0\DegiskenlerDers.dll
+D:\Kurslar\ASP.NET_MVC_CORE\IleriSeviyeCSharpDersleri-A-Z\Degiskenler\DegiskenlerDers\bin\Debug\net6.0\ref\DegiskenlerDers.dll
+D:\Kurslar\ASP.NET_MVC_CORE\IleriSeviyeCSharpDersleri-A-Z\Degiskenler\DegiskenlerDers\bin\Debug\net6.0\DegiskenlerDers.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\IleriSeviyeCSharpDersleri-A-Z\Degiskenler\DegiskenlerDers\obj\Debug\net6.0\DegiskenlerDers.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\IleriSeviyeCSharpDersleri-A-Z\Degiskenler\DegiskenlerDers\obj\Debug\net6.0\DegiskenlerDers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\IleriSeviyeCSharpDersleri-A-Z\Degiskenler\DegiskenlerDers\obj\Debug\net6.0\DegiskenlerDers.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\IleriSeviyeCSharpDersleri-A-Z\Degiskenler\DegiskenlerDers\obj\Debug\net6.0\DegiskenlerDers.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\IleriSeviyeCSharpDersleri-A-Z\Degiskenler\DegiskenlerDers\obj\Debug\net6.0\DegiskenlerDers.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\IleriSeviyeCSharpDersleri-A-Z\Degiskenler\DegiskenlerDers\obj\Debug\net6.0\DegiskenlerDers.dll
+D:\Kurslar\ASP.NET_MVC_CORE\IleriSeviyeCSharpDersleri-A-Z\Degiskenler\DegiskenlerDers\obj\Debug\net6.0\ref\DegiskenlerDers.dll
+D:\Kurslar\ASP.NET_MVC_CORE\IleriSeviyeCSharpDersleri-A-Z\Degiskenler\DegiskenlerDers\obj\Debug\net6.0\DegiskenlerDers.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\IleriSeviyeCSharpDersleri-A-Z\Degiskenler\DegiskenlerDers\obj\Debug\net6.0\DegiskenlerDers.genruntimeconfig.cache
