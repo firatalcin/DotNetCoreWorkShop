@@ -1,0 +1,12 @@
+D:\Kurslar\ASP.NET_MVC_CORE\EntityFrameworkCoreLessons\GRSYKitapEvi_Entity\bin\Debug\net5.0\GRSYKitapEvi_Entities.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\EntityFrameworkCoreLessons\GRSYKitapEvi_Entity\bin\Debug\net5.0\GRSYKitapEvi_Entities.dll
+D:\Kurslar\ASP.NET_MVC_CORE\EntityFrameworkCoreLessons\GRSYKitapEvi_Entity\bin\Debug\net5.0\GRSYKitapEvi_Entities.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\EntityFrameworkCoreLessons\GRSYKitapEvi_Entity\obj\Debug\net5.0\GRSYKitapEvi_Entities.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\EntityFrameworkCoreLessons\GRSYKitapEvi_Entity\obj\Debug\net5.0\GRSYKitapEvi_Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\EntityFrameworkCoreLessons\GRSYKitapEvi_Entity\obj\Debug\net5.0\GRSYKitapEvi_Entities.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\EntityFrameworkCoreLessons\GRSYKitapEvi_Entity\obj\Debug\net5.0\GRSYKitapEvi_Entities.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\EntityFrameworkCoreLessons\GRSYKitapEvi_Entity\obj\Debug\net5.0\GRSYKitapEvi_Entities.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\EntityFrameworkCoreLessons\GRSYKitapEvi_Entity\obj\Debug\net5.0\GRSYKitapEvi_Entities.dll
+D:\Kurslar\ASP.NET_MVC_CORE\EntityFrameworkCoreLessons\GRSYKitapEvi_Entity\obj\Debug\net5.0\refint\GRSYKitapEvi_Entities.dll
+D:\Kurslar\ASP.NET_MVC_CORE\EntityFrameworkCoreLessons\GRSYKitapEvi_Entity\obj\Debug\net5.0\GRSYKitapEvi_Entities.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\EntityFrameworkCoreLessons\GRSYKitapEvi_Entity\obj\Debug\net5.0\ref\GRSYKitapEvi_Entities.dll
