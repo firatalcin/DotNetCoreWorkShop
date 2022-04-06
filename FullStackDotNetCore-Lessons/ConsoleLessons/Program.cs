@@ -126,6 +126,26 @@ namespace ConsoleLessons
             //bool isTrue = (number >= 50 && number <= 60) && (number % 5 == 0 || number % 3 == 0);
             // Console.WriteLine(isTrue); 
             #endregion
+
+            #region Ders 11 - Veri Tipi Dönüşümleri
+            int numberInt = 10;
+
+            string numberString = numberInt.ToString();
+
+            //int numberInt2 = int.Parse(numberString);
+            int numberInt2 = Convert.ToInt32(numberString);
+
+            //ToInt16 = short
+            //ToInt32 = int
+            //ToInt64 = float
+
+            double numberDouble = Convert.ToDouble(numberString);
+            decimal numberDecimal = Convert.ToDecimal(numberString);
+
+            short numberShort = 15;
+            int numberInt3 = numberShort;
+            #endregion
+
         }
     }
 }

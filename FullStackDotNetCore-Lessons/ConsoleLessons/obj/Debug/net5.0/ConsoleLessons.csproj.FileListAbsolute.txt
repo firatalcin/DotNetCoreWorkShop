@@ -14,3 +14,11 @@ D:\Kurslar\ASP.NET_MVC_CORE\DerinlemesineCSharp\ConsoleLessons\obj\Debug\net5.0\
 D:\Kurslar\ASP.NET_MVC_CORE\DerinlemesineCSharp\ConsoleLessons\obj\Debug\net5.0\ConsoleLessons.pdb
 D:\Kurslar\ASP.NET_MVC_CORE\DerinlemesineCSharp\ConsoleLessons\obj\Debug\net5.0\ConsoleLessons.genruntimeconfig.cache
 D:\Kurslar\ASP.NET_MVC_CORE\DerinlemesineCSharp\ConsoleLessons\obj\Debug\net5.0\ref\ConsoleLessons.dll
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\ConsoleLessons\obj\Debug\net5.0\ConsoleLessons.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\ConsoleLessons\obj\Debug\net5.0\ConsoleLessons.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\ConsoleLessons\obj\Debug\net5.0\ConsoleLessons.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\ConsoleLessons\obj\Debug\net5.0\ConsoleLessons.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\ConsoleLessons\obj\Debug\net5.0\ConsoleLessons.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\ConsoleLessons\obj\Debug\net5.0\ConsoleLessons.dll
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\ConsoleLessons\obj\Debug\net5.0\refint\ConsoleLessons.dll
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\ConsoleLessons\obj\Debug\net5.0\ConsoleLessons.pdb
