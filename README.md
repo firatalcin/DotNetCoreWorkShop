@@ -1,2 +1,2 @@
 # CSharp-Camp
-Kodlama.io - Yazılım Geliştirici Yetiştirme Kampı - @engindemirog
+C# ve .Net Core Çalışmaları
