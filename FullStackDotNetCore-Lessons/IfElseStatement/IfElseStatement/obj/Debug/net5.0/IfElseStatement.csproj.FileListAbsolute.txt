@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\IfElseStatement\IfElseStatement\bin\Debug\net5.0\IfElseStatement.exe
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\IfElseStatement\IfElseStatement\bin\Debug\net5.0\IfElseStatement.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\IfElseStatement\IfElseStatement\bin\Debug\net5.0\IfElseStatement.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\IfElseStatement\IfElseStatement\bin\Debug\net5.0\IfElseStatement.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\IfElseStatement\IfElseStatement\bin\Debug\net5.0\IfElseStatement.dll
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\IfElseStatement\IfElseStatement\bin\Debug\net5.0\IfElseStatement.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\IfElseStatement\IfElseStatement\obj\Debug\net5.0\IfElseStatement.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\IfElseStatement\IfElseStatement\obj\Debug\net5.0\IfElseStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\IfElseStatement\IfElseStatement\obj\Debug\net5.0\IfElseStatement.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\IfElseStatement\IfElseStatement\obj\Debug\net5.0\IfElseStatement.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\IfElseStatement\IfElseStatement\obj\Debug\net5.0\IfElseStatement.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\IfElseStatement\IfElseStatement\obj\Debug\net5.0\IfElseStatement.dll
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\IfElseStatement\IfElseStatement\obj\Debug\net5.0\refint\IfElseStatement.dll
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\IfElseStatement\IfElseStatement\obj\Debug\net5.0\IfElseStatement.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\IfElseStatement\IfElseStatement\obj\Debug\net5.0\IfElseStatement.genruntimeconfig.cache
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\IfElseStatement\IfElseStatement\obj\Debug\net5.0\ref\IfElseStatement.dll
