@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\OOP\bin\Debug\net5.0\OOP.exe
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\OOP\bin\Debug\net5.0\OOP.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\OOP\bin\Debug\net5.0\OOP.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\OOP\bin\Debug\net5.0\OOP.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\OOP\bin\Debug\net5.0\OOP.dll
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\OOP\bin\Debug\net5.0\OOP.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\OOP\obj\Debug\net5.0\OOP.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\OOP\obj\Debug\net5.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\OOP\obj\Debug\net5.0\OOP.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\OOP\obj\Debug\net5.0\OOP.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\OOP\obj\Debug\net5.0\OOP.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\OOP\obj\Debug\net5.0\OOP.dll
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\OOP\obj\Debug\net5.0\refint\OOP.dll
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\OOP\obj\Debug\net5.0\OOP.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\OOP\obj\Debug\net5.0\OOP.genruntimeconfig.cache
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\OOP\obj\Debug\net5.0\ref\OOP.dll
