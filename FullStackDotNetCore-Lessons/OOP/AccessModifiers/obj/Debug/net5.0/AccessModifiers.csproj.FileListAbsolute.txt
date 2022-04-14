@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\AccessModifiers\bin\Debug\net5.0\AccessModifiers.exe
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\AccessModifiers\bin\Debug\net5.0\AccessModifiers.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\AccessModifiers\bin\Debug\net5.0\AccessModifiers.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\AccessModifiers\bin\Debug\net5.0\AccessModifiers.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\AccessModifiers\bin\Debug\net5.0\AccessModifiers.dll
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\AccessModifiers\bin\Debug\net5.0\AccessModifiers.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\AccessModifiers\obj\Debug\net5.0\AccessModifiers.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\AccessModifiers\obj\Debug\net5.0\AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\AccessModifiers\obj\Debug\net5.0\AccessModifiers.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\AccessModifiers\obj\Debug\net5.0\AccessModifiers.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\AccessModifiers\obj\Debug\net5.0\AccessModifiers.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\AccessModifiers\obj\Debug\net5.0\AccessModifiers.dll
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\AccessModifiers\obj\Debug\net5.0\refint\AccessModifiers.dll
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\AccessModifiers\obj\Debug\net5.0\AccessModifiers.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\AccessModifiers\obj\Debug\net5.0\AccessModifiers.genruntimeconfig.cache
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\AccessModifiers\obj\Debug\net5.0\ref\AccessModifiers.dll
