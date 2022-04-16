@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\Enums\bin\Debug\net5.0\Enums.exe
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\Enums\bin\Debug\net5.0\Enums.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\Enums\bin\Debug\net5.0\Enums.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\Enums\bin\Debug\net5.0\Enums.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\Enums\bin\Debug\net5.0\Enums.dll
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\Enums\bin\Debug\net5.0\Enums.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\Enums\obj\Debug\net5.0\Enums.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\Enums\obj\Debug\net5.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\Enums\obj\Debug\net5.0\Enums.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\Enums\obj\Debug\net5.0\Enums.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\Enums\obj\Debug\net5.0\Enums.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\Enums\obj\Debug\net5.0\Enums.dll
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\Enums\obj\Debug\net5.0\refint\Enums.dll
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\Enums\obj\Debug\net5.0\Enums.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\Enums\obj\Debug\net5.0\Enums.genruntimeconfig.cache
+D:\Kurslar\ASP.NET_MVC_CORE\FullStackDotNetCore-Lessons\OOP\Enums\obj\Debug\net5.0\ref\Enums.dll
