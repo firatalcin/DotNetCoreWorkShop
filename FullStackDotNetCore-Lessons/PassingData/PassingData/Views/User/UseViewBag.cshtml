@@ -1,0 +1,11 @@
+﻿
+<h1>Merhaba : @ViewBag.UserName</h1>
+
+<p>Merhaba @ViewBag.FullName.FirstName</p>
+
+<ul>
+    @foreach (var item in @ViewBag.UserListed)
+    {
+        <li>@item.FirstName</li>
+    }
+</ul>

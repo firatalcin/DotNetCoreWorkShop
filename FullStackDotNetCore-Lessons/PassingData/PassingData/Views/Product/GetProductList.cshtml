@@ -1,0 +1,7 @@
+﻿@using PassingData.Models
+@model List<Product>
+
+@foreach (var item in @Model)
+{
+    <p>@item.ProductName @item.CategoryName @item.UnitPrice</p>
+}
