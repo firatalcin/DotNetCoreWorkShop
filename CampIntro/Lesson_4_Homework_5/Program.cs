@@ -7,10 +7,10 @@ namespace Lesson_4_Homework_5
         static void Main(string[] args)
         {
             MyDictionary<int, string> yazilimcilar = new MyDictionary<int, string>();
-            futbolcular.Add(1, "Fırat");
-            futbolcular.Add(2, "Engin");
+            yazilimcilar.Add(1, "Fırat");
+            yazilimcilar.Add(2, "Engin");
 
-            foreach (var item in futbolcular.Values)
+            foreach (var item in yazilimcilar.Values)
             {
                 Console.WriteLine(item);
             }
