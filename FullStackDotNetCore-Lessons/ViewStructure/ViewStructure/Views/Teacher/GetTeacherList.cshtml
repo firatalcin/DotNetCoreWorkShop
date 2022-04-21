@@ -1,0 +1,31 @@
+﻿@model List<Teacher>
+@{
+    Layout = null;
+}
+
+<!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+<!DOCTYPE html>
+
+@{
+    ViewData["HasFooter"] = false;
+}
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetTeacherList</title>
+</head>
+<body>
+    <h2 style="text-align:center;">Öğretmen Listesi</h2>
+    <div class="row row-cols-md-3">
+        @foreach (var item in Model)
+       {
+           <div class="col">
+               <partial name="~/Views/Teacher/TeacherInfoPartial.cshtml" model="@item"></partial>
+           </div>
+       }
+    </div>
+</body>
+</html>
