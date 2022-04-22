@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\MVC-API-Lessons\GerekliBilgiler\_1_Delege\bin\Debug\net5.0\_1_Delege.exe
+D:\Kurslar\ASP.NET_MVC_CORE\MVC-API-Lessons\GerekliBilgiler\_1_Delege\bin\Debug\net5.0\_1_Delege.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\MVC-API-Lessons\GerekliBilgiler\_1_Delege\bin\Debug\net5.0\_1_Delege.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\MVC-API-Lessons\GerekliBilgiler\_1_Delege\bin\Debug\net5.0\_1_Delege.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\MVC-API-Lessons\GerekliBilgiler\_1_Delege\bin\Debug\net5.0\_1_Delege.dll
+D:\Kurslar\ASP.NET_MVC_CORE\MVC-API-Lessons\GerekliBilgiler\_1_Delege\bin\Debug\net5.0\_1_Delege.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\MVC-API-Lessons\GerekliBilgiler\_1_Delege\obj\Debug\net5.0\_1_Delege.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\MVC-API-Lessons\GerekliBilgiler\_1_Delege\obj\Debug\net5.0\_1_Delege.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\MVC-API-Lessons\GerekliBilgiler\_1_Delege\obj\Debug\net5.0\_1_Delege.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\MVC-API-Lessons\GerekliBilgiler\_1_Delege\obj\Debug\net5.0\_1_Delege.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\MVC-API-Lessons\GerekliBilgiler\_1_Delege\obj\Debug\net5.0\_1_Delege.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\MVC-API-Lessons\GerekliBilgiler\_1_Delege\obj\Debug\net5.0\_1_Delege.dll
+D:\Kurslar\ASP.NET_MVC_CORE\MVC-API-Lessons\GerekliBilgiler\_1_Delege\obj\Debug\net5.0\refint\_1_Delege.dll
+D:\Kurslar\ASP.NET_MVC_CORE\MVC-API-Lessons\GerekliBilgiler\_1_Delege\obj\Debug\net5.0\_1_Delege.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\MVC-API-Lessons\GerekliBilgiler\_1_Delege\obj\Debug\net5.0\_1_Delege.genruntimeconfig.cache
+D:\Kurslar\ASP.NET_MVC_CORE\MVC-API-Lessons\GerekliBilgiler\_1_Delege\obj\Debug\net5.0\ref\_1_Delege.dll

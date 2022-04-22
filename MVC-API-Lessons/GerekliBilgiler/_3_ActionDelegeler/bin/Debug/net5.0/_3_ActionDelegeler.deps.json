@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "_3_ActionDelegeler/1.0.0": {
+        "runtime": {
+          "_3_ActionDelegeler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_3_ActionDelegeler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
