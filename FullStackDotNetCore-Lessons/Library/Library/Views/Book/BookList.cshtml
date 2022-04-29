@@ -1,0 +1,38 @@
+﻿@model List<Book>
+
+@{
+    ViewData["Title"] = "BookList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3 class="text-center">Kitap Listeleme Sayfası</h3>
+<a asp-controller="Book" asp-action="Create" class="btn btn-primary" style="float:right">Yeni Ekle</a>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>İsim</th>
+            <th>Sayfa Sayısı</th>
+            <th>Yazar İsmi</th>
+            <th>Tür İsmi</th>
+            <th>Aksiyonlar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+       {
+            <tr>
+            <th>@item.Id</th>
+            <td>@item.Name</td>
+            <td>@item.PageCount</td>
+            <td>@item.Author.FirstName @item.Author.LastName</td>
+            <td>@item.BookType.Name</td>
+            <td>                
+                <a class="big-icon" asp-controller="Book" asp-action="HardDelete" asp-route-id="@item.Id"><i class="bi bi-x-circle-fill"></i></a>
+                <a class="big-icon margin-icon" asp-controller="Book" asp-action="Edit" asp-route-id="@item.Id"><i class="bi bi-pencil-square"></i></a>
+            </td>
+        </tr>
+       }             
+    </tbody>
+</table>
+

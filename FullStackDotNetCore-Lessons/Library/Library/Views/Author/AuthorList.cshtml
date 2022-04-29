@@ -1,0 +1,33 @@
+﻿@model List<Author>
+@{
+    ViewData["Title"] = "AuthorList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3 class=text-center>Yazar Listeleme Sayfası</h3>
+<a asp-controller="Author" asp-action="Create" class="btn btn-primary" style="float:right">Yeni Ekle</a>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>İsim</th>
+            <th>Soyisim</th>
+            <th>Aksiyonlar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th>@item.Id</th>
+                <td>@item.FirstName</td>
+                <td>@item.LastName</td>
+                <td>
+                    <a class="big-icon" asp-controller="Author" asp-action="Delete" asp-route-id="@item.Id"><i class="bi bi-x-circle-fill"></i></a>
+                    <a class="big-icon margin-icon" asp-controller="Author" asp-action="Edit" asp-route-id="@item.Id"><i class="bi bi-pencil-square"></i></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
