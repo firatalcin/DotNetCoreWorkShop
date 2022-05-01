@@ -5802,11 +5802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Library\\Library\\Library.csproj",
+      "projectUniqueName": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FullStackDotNetCore-Lessons\\Library\\Library\\Library.csproj",
       "projectName": "Library",
-      "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Library\\Library\\Library.csproj",
+      "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FullStackDotNetCore-Lessons\\Library\\Library\\Library.csproj",
       "packagesPath": "C:\\Users\\firatalcin\\.nuget\\packages\\",
-      "outputPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Library\\Library\\obj\\",
+      "outputPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FullStackDotNetCore-Lessons\\Library\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

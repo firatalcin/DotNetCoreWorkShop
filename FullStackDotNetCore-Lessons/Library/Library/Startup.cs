@@ -1,3 +1,6 @@
+using Library.Models;
+using Library.RepositoryPattern.Abstract;
+using Library.RepositoryPattern.Concrete;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -24,6 +27,7 @@ namespace Library
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddScoped<IRepository<BookType>, Repository<BookType>>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

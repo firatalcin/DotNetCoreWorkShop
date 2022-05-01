@@ -1,5 +1,6 @@
 ﻿using Library.Context;
 using Library.Models;
+using Library.RepositoryPattern.Abstract;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Linq;
@@ -8,14 +9,17 @@ namespace Library.Controllers
 {
     public class BookTypeController : Controller
     {
+        IRepository<BookType> _repoBookType;
+
+        public BookTypeController(IRepository<BookType> repoBookType)
+        {
+            _repoBookType = repoBookType;
+        }
 
         public IActionResult BookTypeList()
         {
-            using (MyDbContext context = new MyDbContext())
-            {
-                var list = context.BookTypes.ToList();
-                return View(list);
-            }               
+            var list = _repoBookType.GetAll();
+            return View(list);
         }
 
         [HttpGet]
@@ -27,35 +31,22 @@ namespace Library.Controllers
         [HttpPost]
         public IActionResult Create(BookType bookType)
         {
-            using (MyDbContext context = new MyDbContext())
-            {
-                context.BookTypes.Add(bookType);
-                context.SaveChanges();
-                return RedirectToAction("BookTypeList");
-            }
+            _repoBookType.Add(bookType);
+            return RedirectToAction("BookTypeList");
         }
 
         [HttpGet]
         public IActionResult Edit(int id)
         {
-            using (MyDbContext context = new MyDbContext())
-            {
-                var bookType = context.BookTypes.FirstOrDefault(x => x.Id == id);
-                return View(bookType);
-            }
+            var bookType = _repoBookType.GetById(id);
+            return View(bookType);
         }
 
         [HttpPost]
         public IActionResult Edit(BookType bookType)
         {
-            using (MyDbContext context = new MyDbContext())
-            {
-                bookType.Status = Enums.DataStatus.Update;
-                bookType.ModifiedDate = DateTime.Now;
-                context.BookTypes.Update(bookType);
-                context.SaveChanges();
-                return RedirectToAction("BookTypeList");
-            }
+            _repoBookType.Update(bookType);
+            return RedirectToAction("BookTypeList");
         }
 
         public IActionResult HardDelete(int id)
