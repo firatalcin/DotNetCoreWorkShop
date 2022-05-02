@@ -1,4 +1,5 @@
 ﻿using Library.Configurations;
+using Library.Initializer;
 using Library.Models;
 using Microsoft.EntityFrameworkCore;
 
@@ -13,6 +14,9 @@ namespace Library.Context
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            DataInitializer.Seed(modelBuilder);
+
+
             //Operation
 
             modelBuilder.ApplyConfiguration(new OperationConfiguration());
@@ -42,5 +46,6 @@ namespace Library.Context
         public DbSet<Operation> Operations { get; set; }
         public DbSet<Student> Students { get; set; }
         public DbSet<StudentDetail> StudentDetails { get; set; }
+        public DbSet<AppUser> Users { get; set; }
     }
 }

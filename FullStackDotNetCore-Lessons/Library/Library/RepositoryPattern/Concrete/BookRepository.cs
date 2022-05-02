@@ -15,7 +15,7 @@ namespace Library.RepositoryPattern.Concrete
 
         public List<Book> GetBooks()
         {
-            var list = table.Where(x => x.Status != Enums.DataStatus.Delete).Include(x => x.Author).Include(x => x.BookType).ToList();
+            return table.Where(x => x.Status != Enums.DataStatus.Delete).Include(x => x.Author).Include(x => x.BookType).ToList();
         }
     }
 }
