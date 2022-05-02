@@ -1,5 +1,6 @@
 ﻿using Library.Context;
 using Library.Models;
+using Library.RepositoryPattern.Abstract;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Linq;
@@ -8,15 +9,17 @@ namespace Library.Controllers
 {
     public class AuthorController : Controller
     {
+        IAuthorRepository _repository;
+
+        public AuthorController(IAuthorRepository repository)
+        {
+            _repository = repository;
+        }
 
         public IActionResult AuthorList()
         {
-
-            using (MyDbContext context = new MyDbContext())
-            {
-                var list = context.Authors.Where(x => x.Status != Enums.DataStatus.Delete).ToList();
-                return View(list);
-            }
+            var list = _repository.GetAll();
+            return View(list);
         }
 
         [HttpGet]
@@ -28,48 +31,29 @@ namespace Library.Controllers
         [HttpPost]
         public IActionResult Create(Author author)
         {
-            using (MyDbContext context = new MyDbContext())
-            {
-                context.Authors.Add(author);
-                context.SaveChanges();
-                return RedirectToAction("AuthorList");
-            }
+           _repository.Add(author);
+            return RedirectToAction("AuthorList");
         }
 
         [HttpGet]
         public IActionResult Edit(int id)
         {
-            using (MyDbContext context = new MyDbContext())
-            {
-                var author = context.Authors.FirstOrDefault(x => x.Id == id);
-                return View(author);
-            }
+            var updatedAuthor = _repository.GetById(id);
+            return View(updatedAuthor);
         }
 
         [HttpPost]
         public IActionResult Edit(Author author)
         {
-            using (MyDbContext context = new MyDbContext())
-            {
-                author.Status = Enums.DataStatus.Update;
-                author.ModifiedDate = DateTime.Now;
-                context.Authors.Update(author);
-                context.SaveChanges();
-                return RedirectToAction("AuthorList");
-            }
+           _repository.Update(author);
+            return RedirectToAction("AuthorList");
         }
 
        
         public IActionResult Delete(int id)
         {
-            using (MyDbContext context = new MyDbContext())
-            {
-                var author = context.Authors.FirstOrDefault(x => x.Id == id);
-                author.Status = Enums.DataStatus.Delete;
-                author.ModifiedDate = DateTime.Now;
-                context.SaveChanges();
-                return RedirectToAction("AuthorList");
-            }
+            _repository.Delete(id);
+            return RedirectToAction("AuthorList");
         }
 
 

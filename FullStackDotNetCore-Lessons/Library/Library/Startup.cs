@@ -28,6 +28,9 @@ namespace Library
         {
             services.AddControllersWithViews();
             services.AddScoped<IRepository<BookType>, Repository<BookType>>();
+           // services.AddScoped<IRepository<Author>, Repository<Author>>();
+            services.AddScoped<IBookRepository, BookRepository>();
+            services.AddScoped<IAuthorRepository, AuthorRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

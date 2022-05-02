@@ -1,6 +1,7 @@
 ﻿using Library.Context;
 using Library.Dto;
 using Library.Models;
+using Library.RepositoryPattern.Abstract;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
@@ -9,45 +10,45 @@ namespace Library.Controllers
 {
     public class BookController : Controller
     {
-        MyDbContext context = new MyDbContext();
+        MyDbContext _db;
+        IBookRepository _repoBook;
+        IAuthorRepository _repoAuthor;
+        IBookTypeRepository _repoBookType;
+
+        public BookController(MyDbContext db, IBookRepository repoBook, IAuthorRepository repoAuthor, IBookTypeRepository repoBookType)
+        {
+            _db = db;
+            _repoBook = repoBook;
+            _repoAuthor = repoAuthor;
+            _repoBookType = repoBookType;
+        }
 
         public IActionResult BookList()
         {
-            var list = context.Books.Where(x => x.Status != Enums.DataStatus.Delete).Include(x => x.Author).Include(x => x.BookType).ToList();
+            var list = _repoBook.GetBooks();
             return View(list);
         }
 
         public IActionResult Create()
         {
-            var authors = context.Authors.Where(x => x.Status != Enums.DataStatus.Delete).Select(x =>
-            new AuthorDto() {
-                FirstName = x.FirstName,
-                LastName = x.LastName,
-                Id = x.Id
-            }).ToList();
+            var authors = _repoAuthor.SelectAuthorDto();
 
-            var bookTypes = context.BookTypes.Where(x => x.Status != Enums.DataStatus.Delete).Select(x =>
-            new BookTypeDto()
-            {
-                Id = x.Id,
-                Name = x.Name,
-            }).ToList();
+            var bookTypes = _repoBookType.SelectBookTypeDto();
 
             return View((new Book(), authors, bookTypes));
         }
         [HttpPost]
         public IActionResult Create([Bind(Prefix = "Item1")] Book book)
         {
-            context.Books.Add(book);
-            context.SaveChanges();
+            _repoBook.Add(book);
             return RedirectToAction("BookList");
         }
 
         public IActionResult Edit(int id)
         {
-            var book = context.Books.SingleOrDefault(x => x.Id == id);
+            var book = _db.Books.SingleOrDefault(x => x.Id == id);
 
-            var authors = context.Authors.Where(x => x.Status != Enums.DataStatus.Delete).Select(x =>
+            var authors = _db.Authors.Where(x => x.Status != Enums.DataStatus.Delete).Select(x =>
             new AuthorDto()
             {
                 FirstName = x.FirstName,
@@ -55,7 +56,7 @@ namespace Library.Controllers
                 Id = x.Id
             }).ToList();
 
-            var bookTypes = context.BookTypes.Where(x => x.Status != Enums.DataStatus.Delete).Select(x =>
+            var bookTypes = _db.BookTypes.Where(x => x.Status != Enums.DataStatus.Delete).Select(x =>
             new BookTypeDto()
             {
                 Id = x.Id,
@@ -70,8 +71,8 @@ namespace Library.Controllers
         {
             book.Status = Enums.DataStatus.Update;
             book.ModifiedDate = System.DateTime.Now;
-            context.Books.Update(book);
-            context.SaveChanges();
+            _db.Books.Update(book);
+            _db.SaveChanges();
             return RedirectToAction("BookList");
         }
     }

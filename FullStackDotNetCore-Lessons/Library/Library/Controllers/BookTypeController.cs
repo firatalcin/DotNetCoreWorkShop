@@ -51,13 +51,9 @@ namespace Library.Controllers
 
         public IActionResult HardDelete(int id)
         {
-            using (MyDbContext context = new MyDbContext())
-            {
-                var bookType = context.BookTypes.FirstOrDefault(x => x.Id == id);
-                context.BookTypes.Remove(bookType);
-                context.SaveChanges();
-                return RedirectToAction("BookTypeList");
-            }
+            _repoBookType.HardDelete(id);
+            return RedirectToAction("BookTypeList");
+
         }
     }
 }

@@ -12,7 +12,7 @@ namespace Library.RepositoryPattern.Concrete
     public class Repository<T> : IRepository<T> where T : BaseEntity
     {
         MyDbContext _db;
-        DbSet<T> table;
+        protected DbSet<T> table;
 
 
         public Repository(MyDbContext db)
