@@ -1,0 +1,26 @@
+﻿@using Library.Dto
+@model (Book book,List<AuthorDto> authors, List<BookTypeDto> bookTypes)
+
+
+<h3 class="text-center">Kitap Ekleme Sayfası</h3>
+<form method="post" asp-controller="Book" asp-area="Management" asp-action="Create">
+   <div class="mb-3">
+       <label class="col-form-label" asp-for="book.Name">İsim</label>
+       <input type=text class="form-control" asp-for="book.Name"/>
+   </div>
+    <div class="mb-3">
+       <label class="col-form-label" asp-for="book.PageCount">Sayfa Sayısı</label>
+       <input type=text class="form-control" asp-for="book.PageCount"/>
+   </div>
+    <div class="mb-3">
+       <label class="col-form-label" asp-for="book.AuthorId">İsim</label>
+       <select class="form-control" asp-for="book.AuthorId" asp-items="@(new SelectList(Model.authors,"Id","FullName"))"></select>
+   </div>
+   <div class="mb-3">
+       <label class="col-form-label" asp-for="book.BookTypeId">İsim</label>
+       <select class="form-control" asp-for="book.BookTypeId" asp-items="@(new SelectList(Model.bookTypes,"Id","Name"))"></select>
+   </div>
+   <div>
+       <button type="submit" class="btn btn-primary">Ekle</button>
+   </div>
+</form>

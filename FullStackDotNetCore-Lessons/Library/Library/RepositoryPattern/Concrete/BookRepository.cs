@@ -9,9 +9,7 @@ namespace Library.RepositoryPattern.Concrete
 {
     public class BookRepository : Repository<Book>, IBookRepository
     {
-        public BookRepository(MyDbContext db) : base(db)
-        {
-        }
+       
 
         public List<Book> GetBooks()
         {

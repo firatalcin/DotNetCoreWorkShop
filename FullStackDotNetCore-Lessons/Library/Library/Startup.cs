@@ -29,16 +29,18 @@ namespace Library
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-            services.AddScoped<IRepository<BookType>, Repository<BookType>>();
-           // services.AddScoped<IRepository<Author>, Repository<Author>>();
+            //services.AddScoped<IRepository<BookType>, Repository<BookType>>();
+            // services.AddScoped<IRepository<Author>, Repository<Author>>();
+            services.AddScoped<IRepository<AppUser>, Repository<AppUser>>();
             services.AddScoped<IBookRepository, BookRepository>();
             services.AddScoped<IAuthorRepository, AuthorRepository>();
+            services.AddScoped<IBookTypeRepository, BookTypeRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env,MyDbContext context)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            context.Database.Migrate();
+           
 
             if (env.IsDevelopment())
             {
@@ -60,9 +62,18 @@ namespace Library
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
+                   name: "defaultArea",
+                   pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+                   );
+
+                endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Auth}/{action=Login}/{id?}"
+                    );
+
             });
+
+            
         }
     }
 }

@@ -11,9 +11,7 @@ namespace Library.RepositoryPattern.Concrete
 {
     public class BookTypeRepository : Repository<BookType>, IBookTypeRepository
     {
-        public BookTypeRepository(MyDbContext db) : base(db)
-        {
-        }
+       
 
         public List<BookTypeDto> SelectBookTypeDto()
         {

@@ -9,9 +9,7 @@ namespace Library.RepositoryPattern.Concrete
 {
     public class AuthorRepository : Repository<Author>, IAuthorRepository
     {
-        public AuthorRepository(MyDbContext db) : base(db)
-        {
-        }
+       
 
         public List<AuthorDto> SelectAuthorDto()
         {

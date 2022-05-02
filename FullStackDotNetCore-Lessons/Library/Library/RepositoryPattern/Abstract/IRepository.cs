@@ -16,6 +16,7 @@ namespace Library.RepositoryPattern.Abstract
         void HardDelete(int id);
         List<T> GetByFilter(Expression<Func<T,bool>> filter);
         int Count();
+        T Default(Expression<Func<T, bool>> filter);
         bool Any(Expression<Func<T,bool>> filter);
         List<T> SelectActivesByLimit(int count);
 

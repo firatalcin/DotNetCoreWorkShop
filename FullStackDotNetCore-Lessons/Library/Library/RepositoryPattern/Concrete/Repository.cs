@@ -11,14 +11,13 @@ namespace Library.RepositoryPattern.Concrete
 {
     public class Repository<T> : IRepository<T> where T : BaseEntity
     {
-        MyDbContext _db;
+        MyDbContext _db = new MyDbContext();
         protected DbSet<T> table;
 
 
-        public Repository(MyDbContext db)
+        public Repository()
         {
-            _db = db;
-            table = db.Set<T>();
+            table = _db.Set<T>();
         }
 
         private void Save()
@@ -89,6 +88,11 @@ namespace Library.RepositoryPattern.Concrete
             entity.ModifiedDate = DateTime.Now;
             table.Update(entity);
             Save();
+        }
+
+        public T Default(Expression<Func<T, bool>> filter)
+        {
+           return  table.FirstOrDefault(filter);
         }
     }
 }
