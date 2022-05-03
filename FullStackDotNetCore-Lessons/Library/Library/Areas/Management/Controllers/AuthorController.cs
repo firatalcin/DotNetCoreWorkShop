@@ -1,10 +1,12 @@
 ﻿using Library.Models;
 using Library.RepositoryPattern.Abstract;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Library.Areas.Management.Controllers
 {
     [Area("Management")]
+    [Authorize(Policy = "AdminPolicy")]
     public class AuthorController : Controller
     {
         IAuthorRepository _repository;
@@ -14,6 +16,7 @@ namespace Library.Areas.Management.Controllers
             _repository = repository;
         }
 
+       
         public IActionResult AuthorList()
         {
             var list = _repository.GetAll();

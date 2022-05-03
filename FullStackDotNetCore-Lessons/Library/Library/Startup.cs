@@ -2,6 +2,7 @@ using Library.Context;
 using Library.Models;
 using Library.RepositoryPattern.Abstract;
 using Library.RepositoryPattern.Concrete;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -35,6 +36,17 @@ namespace Library
             services.AddScoped<IBookRepository, BookRepository>();
             services.AddScoped<IAuthorRepository, AuthorRepository>();
             services.AddScoped<IBookTypeRepository, BookTypeRepository>();
+            services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(option =>
+            {
+                option.LoginPath = "/Auth/Login";
+                option.Cookie.Name = "userDetail";
+                option.AccessDeniedPath = "/Auth/Login";
+            });
+            services.AddAuthorization(options =>
+            {
+                options.AddPolicy("AdminPolicy", policy => policy.RequireClaim("role", "admin"));
+                options.AddPolicy("UserPolicy", policy => policy.RequireClaim("role", "admin", "user"));
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -56,7 +68,7 @@ namespace Library
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

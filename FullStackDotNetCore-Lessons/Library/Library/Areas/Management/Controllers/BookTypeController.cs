@@ -1,10 +1,12 @@
 ﻿using Library.Models;
 using Library.RepositoryPattern.Abstract;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Library.Areas.Management.Controllers
 {
     [Area("Management")]
+    [Authorize(Policy = "AdminPolicy")]
     public class BookTypeController : Controller
     {
         IBookTypeRepository _repoBookType;
