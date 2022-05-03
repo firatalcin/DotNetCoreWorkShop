@@ -6,10 +6,12 @@
     <div class="mb-3">
         <label class="form-label" asp-for="FirstName">İsim</label>
         <input type="text" class="form-control" asp-for="FirstName" />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
     </div>
      <div class="mb-3">
         <label class="form-label" asp-for="LastName">Soyisim</label>
         <input type="text" class="form-control" asp-for="LastName" />
+        <span asp-validation-for="LastName" class="text-danger"></span>
     </div>
     <div>
         <button type="submit" class="btn btn-primary">Kaydet</button>

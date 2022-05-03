@@ -1,3 +1,4 @@
+using FluentValidation.AspNetCore;
 using Library.Context;
 using Library.Models;
 using Library.RepositoryPattern.Abstract;
@@ -29,7 +30,7 @@ namespace Library
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllersWithViews();
+            services.AddControllersWithViews().AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<Startup>());
             //services.AddScoped<IRepository<BookType>, Repository<BookType>>();
             // services.AddScoped<IRepository<Author>, Repository<Author>>();
             services.AddScoped<IRepository<AppUser>, Repository<AppUser>>();

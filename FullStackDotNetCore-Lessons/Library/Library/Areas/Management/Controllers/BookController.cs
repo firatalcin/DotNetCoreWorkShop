@@ -42,6 +42,15 @@ namespace Library.Areas.Management.Controllers
         [HttpPost]
         public IActionResult Create([Bind(Prefix = "Item1")] Book book)
         {
+            if (!ModelState.IsValid)
+            {
+                var authors = _repoAuthor.SelectAuthorDto();
+
+                var bookTypes = _repoBookType.SelectBookTypeDto();
+
+                return View((book, authors, bookTypes));
+
+            }
             _repoBook.Add(book);
             return RedirectToAction("BookList", "Book", new {name = "Management"});
         }
