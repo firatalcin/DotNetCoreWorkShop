@@ -1,0 +1,162 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Directory.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Directory.DAL": "1.0.0",
+          "Directory.MODEL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Directory.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Directory.BLL.dll": {}
+        }
+      },
+      "Directory.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Directory.MAP": "1.0.0",
+          "Directory.MODEL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Directory.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Directory.DAL.dll": {}
+        }
+      },
+      "Directory.MAP/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Directory.MODEL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Directory.MAP.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Directory.MAP.dll": {}
+        }
+      },
+      "Directory.MODEL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Directory.MODEL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Directory.MODEL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Directory.BLL/1.0.0": {
+      "type": "project",
+      "path": "../Directory.BLL/Directory.BLL.csproj",
+      "msbuildProject": "../Directory.BLL/Directory.BLL.csproj"
+    },
+    "Directory.DAL/1.0.0": {
+      "type": "project",
+      "path": "../Directory.DAL/Directory.DAL.csproj",
+      "msbuildProject": "../Directory.DAL/Directory.DAL.csproj"
+    },
+    "Directory.MAP/1.0.0": {
+      "type": "project",
+      "path": "../Directory.MAP/Directory.MAP.csproj",
+      "msbuildProject": "../Directory.MAP/Directory.MAP.csproj"
+    },
+    "Directory.MODEL/1.0.0": {
+      "type": "project",
+      "path": "../Directory.MODEL/Directory.MODEL.csproj",
+      "msbuildProject": "../Directory.MODEL/Directory.MODEL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Directory.BLL >= 1.0.0",
+      "Directory.DAL >= 1.0.0",
+      "Directory.MODEL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\firatalcin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Directory\\Directory.UI\\Directory.UI.csproj",
+      "projectName": "Directory.UI",
+      "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Directory\\Directory.UI\\Directory.UI.csproj",
+      "packagesPath": "C:\\Users\\firatalcin\\.nuget\\packages\\",
+      "outputPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Directory\\Directory.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\firatalcin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Directory\\Directory.BLL\\Directory.BLL.csproj": {
+              "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Directory\\Directory.BLL\\Directory.BLL.csproj"
+            },
+            "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Directory\\Directory.DAL\\Directory.DAL.csproj": {
+              "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Directory\\Directory.DAL\\Directory.DAL.csproj"
+            },
+            "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Directory\\Directory.MODEL\\Directory.MODEL.csproj": {
+              "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Directory\\Directory.MODEL\\Directory.MODEL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
