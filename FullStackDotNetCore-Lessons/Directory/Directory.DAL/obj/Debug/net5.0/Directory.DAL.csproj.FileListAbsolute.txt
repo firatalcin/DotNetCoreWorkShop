@@ -1,0 +1,17 @@
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.DAL\bin\Debug\net5.0\Directory.DAL.deps.json
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.DAL\bin\Debug\net5.0\Directory.DAL.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.DAL\bin\Debug\net5.0\Directory.DAL.pdb
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.DAL\bin\Debug\net5.0\Directory.MAP.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.DAL\bin\Debug\net5.0\Directory.MODEL.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.DAL\bin\Debug\net5.0\Directory.MAP.pdb
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.DAL\bin\Debug\net5.0\Directory.MODEL.pdb
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.DAL\obj\Debug\net5.0\Directory.DAL.csproj.AssemblyReference.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.DAL\obj\Debug\net5.0\Directory.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.DAL\obj\Debug\net5.0\Directory.DAL.AssemblyInfoInputs.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.DAL\obj\Debug\net5.0\Directory.DAL.AssemblyInfo.cs
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.DAL\obj\Debug\net5.0\Directory.DAL.csproj.CoreCompileInputs.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.DAL\obj\Debug\net5.0\Directory.DAL.csproj.CopyComplete
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.DAL\obj\Debug\net5.0\Directory.DAL.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.DAL\obj\Debug\net5.0\refint\Directory.DAL.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.DAL\obj\Debug\net5.0\Directory.DAL.pdb
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.DAL\obj\Debug\net5.0\ref\Directory.DAL.dll

@@ -1,0 +1,15 @@
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.MAP\bin\Debug\net5.0\Directory.MAP.deps.json
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.MAP\bin\Debug\net5.0\Directory.MAP.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.MAP\bin\Debug\net5.0\Directory.MAP.pdb
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.MAP\bin\Debug\net5.0\Directory.MODEL.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.MAP\bin\Debug\net5.0\Directory.MODEL.pdb
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.MAP\obj\Debug\net5.0\Directory.MAP.csproj.AssemblyReference.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.MAP\obj\Debug\net5.0\Directory.MAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.MAP\obj\Debug\net5.0\Directory.MAP.AssemblyInfoInputs.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.MAP\obj\Debug\net5.0\Directory.MAP.AssemblyInfo.cs
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.MAP\obj\Debug\net5.0\Directory.MAP.csproj.CoreCompileInputs.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.MAP\obj\Debug\net5.0\Directory.MAP.csproj.CopyComplete
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.MAP\obj\Debug\net5.0\Directory.MAP.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.MAP\obj\Debug\net5.0\refint\Directory.MAP.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.MAP\obj\Debug\net5.0\Directory.MAP.pdb
+C:\Users\firatalcin\Documents\GitHub\CSharp-Camp\FullStackDotNetCore-Lessons\Directory\Directory.MAP\obj\Debug\net5.0\ref\Directory.MAP.dll
