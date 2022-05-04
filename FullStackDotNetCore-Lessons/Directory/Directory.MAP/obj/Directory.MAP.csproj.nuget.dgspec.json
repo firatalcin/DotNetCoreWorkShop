@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Directory\\Directory.MAP\\Directory.MAP.csproj": {}
+    "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FullStackDotNetCore-Lessons\\Directory\\Directory.MAP\\Directory.MAP.csproj": {}
   },
   "projects": {
-    "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Directory\\Directory.MAP\\Directory.MAP.csproj": {
+    "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FullStackDotNetCore-Lessons\\Directory\\Directory.MAP\\Directory.MAP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Directory\\Directory.MAP\\Directory.MAP.csproj",
+        "projectUniqueName": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FullStackDotNetCore-Lessons\\Directory\\Directory.MAP\\Directory.MAP.csproj",
         "projectName": "Directory.MAP",
-        "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Directory\\Directory.MAP\\Directory.MAP.csproj",
+        "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FullStackDotNetCore-Lessons\\Directory\\Directory.MAP\\Directory.MAP.csproj",
         "packagesPath": "C:\\Users\\firatalcin\\.nuget\\packages\\",
-        "outputPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Directory\\Directory.MAP\\obj\\",
+        "outputPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FullStackDotNetCore-Lessons\\Directory\\Directory.MAP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Directory\\Directory.MODEL\\Directory.MODEL.csproj": {
-                "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Directory\\Directory.MODEL\\Directory.MODEL.csproj"
+              "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FullStackDotNetCore-Lessons\\Directory\\Directory.MODEL\\Directory.MODEL.csproj": {
+                "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FullStackDotNetCore-Lessons\\Directory\\Directory.MODEL\\Directory.MODEL.csproj"
               }
             }
           }
@@ -47,6 +47,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -66,14 +72,14 @@
         }
       }
     },
-    "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Directory\\Directory.MODEL\\Directory.MODEL.csproj": {
+    "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FullStackDotNetCore-Lessons\\Directory\\Directory.MODEL\\Directory.MODEL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Directory\\Directory.MODEL\\Directory.MODEL.csproj",
+        "projectUniqueName": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FullStackDotNetCore-Lessons\\Directory\\Directory.MODEL\\Directory.MODEL.csproj",
         "projectName": "Directory.MODEL",
-        "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Directory\\Directory.MODEL\\Directory.MODEL.csproj",
+        "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FullStackDotNetCore-Lessons\\Directory\\Directory.MODEL\\Directory.MODEL.csproj",
         "packagesPath": "C:\\Users\\firatalcin\\.nuget\\packages\\",
-        "outputPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\FullStackDotNetCore-Lessons\\Directory\\Directory.MODEL\\obj\\",
+        "outputPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\FullStackDotNetCore-Lessons\\Directory\\Directory.MODEL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
