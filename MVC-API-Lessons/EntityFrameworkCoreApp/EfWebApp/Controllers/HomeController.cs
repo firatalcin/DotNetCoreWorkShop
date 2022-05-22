@@ -1,4 +1,5 @@
-﻿using EfWebApp.Models;
+﻿using EfWebApp.Data.Context;
+using EfWebApp.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -10,28 +11,24 @@ using System.Threading.Tasks;
 namespace EfWebApp.Controllers
 {
     public class HomeController : Controller
-    {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
-
+    {       
         public IActionResult Index()
         {
-            return View();
-        }
+            EfAppContext context = new EfAppContext();
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
+            //context.Products.Add(new Data.Entities.Product
+            //{
+            //    Name = "Telefon",
+            //    Price = 6500
+            //});
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
+            var product = context.Products.Find(1);
+            product.Price = 7500;
+            context.Products.Update(product);
+           
+            context.SaveChanges();
+
+            return View();
+        }       
     }
 }
