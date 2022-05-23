@@ -22,9 +22,12 @@ namespace EfWebApp.Controllers
             //    Price = 6500
             //});
 
-            var product = context.Products.Find(1);
-            product.Price = 7500;
-            context.Products.Update(product);
+            //var updatedProduct = context.Products.Find(1);
+            //product.Price = 7500;
+            //context.Products.Update(product);
+
+            var deletedProduct = context.Products.FirstOrDefault(x => x.Id == 1);
+            context.Products.Remove(deletedProduct);
            
             context.SaveChanges();
 
