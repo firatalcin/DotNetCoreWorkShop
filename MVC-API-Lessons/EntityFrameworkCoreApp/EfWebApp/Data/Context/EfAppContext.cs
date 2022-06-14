@@ -23,6 +23,8 @@ namespace EfWebApp.Data.Context
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Employee>().ToTable("Employees");
+
             modelBuilder.Entity<ProductCategory>().HasOne(p => p.Product).WithMany(x => x.ProductCategories).HasForeignKey(x => x.ProductId);
             modelBuilder.Entity<ProductCategory>().HasOne(c => c.Category).WithMany(x => x.ProductCategories).HasForeignKey(x => x.CategoryId);
             modelBuilder.Entity<ProductCategory>().HasKey(x => new { x.ProductId, x.CategoryId});
