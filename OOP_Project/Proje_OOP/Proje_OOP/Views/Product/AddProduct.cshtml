@@ -1,0 +1,27 @@
+﻿@using Proje_OOP.Entity
+@model Product
+@{
+    ViewData["Title"] = "AddProduct";
+    Layout = "~/Views/Shared/_CoreLayout.cshtml";
+}
+
+<h3>Ürün Ekleme Sayfası</h3>
+
+<form class="form-group" method="post" asp-action="AddProduct" asp-controller="Product">
+    <div>
+        <label asp-for="Name">Ürün Adı</label>
+        <input asp-for="Name" type="text" class="form-control" />
+    </div>
+    <div>
+        <label asp-for="Price">Fiyat</label>
+        <input asp-for="Price" type="text" class="form-control" />
+    </div>
+    <div>
+        <label asp-for="Stock">Stok</label>
+        <input asp-for="Stock" type="text" class="form-control" />
+    </div>
+    <div style="margin-top:10px">
+        <button type="submit" class="btn btn-success">Ekle</button>
+    </div>
+</form>
+
