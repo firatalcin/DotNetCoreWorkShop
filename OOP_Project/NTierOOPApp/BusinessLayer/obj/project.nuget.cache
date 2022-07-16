@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "3fx+sUszgH1TnD7mbHE9qZ6uu00dlByZgBr2ih9cJqLEv3HHNJ/fCEz5J/OeKOdrzWyNw7Zt/m6g7UmlsC7fcQ==",
+  "dgSpecHash": "DsdMst1hja6k5lFwm2s0i2o5Y/V9jpxEXC8eWI96z+XYhLWRR1jVoGY7wFlG368Dj/fYwvW8QFw74fwPQ6z/rQ==",
   "success": true,
   "projectFilePath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\MvcProje-MY\\NTierOOPApp\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\firatalcin\\.nuget\\packages\\fluentvalidation\\11.0.0\\fluentvalidation.11.0.0.nupkg.sha512",
+    "C:\\Users\\firatalcin\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.0.0\\fluentvalidation.aspnetcore.11.0.0.nupkg.sha512",
+    "C:\\Users\\firatalcin\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.0.0\\fluentvalidation.dependencyinjectionextensions.11.0.0.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",

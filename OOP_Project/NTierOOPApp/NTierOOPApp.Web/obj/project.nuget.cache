@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "beW1Y0RPRTexOJuf7X3pCj3GJODXPU51qjKEcqg2jB1fF9TQNwYdv1CpkqNKO9bAVDQM2Mo7/3vAl3yY3H+LSA==",
+  "dgSpecHash": "j5nrQn8BTENEj28z1UyiEXHAoDBRw4dRK2WolKUSxod5hClPXap0mSSrA8j7elWfzXAW5gSkALT3axQqXwrE3Q==",
   "success": true,
   "projectFilePath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\MvcProje-MY\\NTierOOPApp\\NTierOOPApp.Web\\NTierOOPApp.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\firatalcin\\.nuget\\packages\\fluentvalidation\\11.0.0\\fluentvalidation.11.0.0.nupkg.sha512",
+    "C:\\Users\\firatalcin\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.0.0\\fluentvalidation.aspnetcore.11.0.0.nupkg.sha512",
+    "C:\\Users\\firatalcin\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.0.0\\fluentvalidation.dependencyinjectionextensions.11.0.0.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
