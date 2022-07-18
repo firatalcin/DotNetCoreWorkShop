@@ -1,0 +1,27 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+
+<partial name="~/Views/Partials/Partial_Header.cshtml" />
+
+<body>
+
+    <partial name="~/Views/Partials/Partial_Sidebar.cshtml" />
+
+    <div class="content">
+        @RenderBody()
+    </div>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+
+</html>
+
+
+
