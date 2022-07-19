@@ -13,7 +13,7 @@ namespace NTierOOPApp.Web.Controllers
 
         public IActionResult Index()
         {
-            var list = customerManager.GetAll();
+            var list = customerManager.GetCustomersListWithJob();
             return View(list);
         }
 

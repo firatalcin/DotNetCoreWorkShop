@@ -35,6 +35,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Kurslar/ASP.NET_MVC_CORE/MvcProje-MY/NTierOOPApp/NTierOOPApp.Web/Views/Job/AddJob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXEFkZEpvYi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kurslar/ASP.NET_MVC_CORE/MvcProje-MY/NTierOOPApp/NTierOOPApp.Web/Views/Job/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kurslar/ASP.NET_MVC_CORE/MvcProje-MY/NTierOOPApp/NTierOOPApp.Web/Views/Job/UpdateJob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXFVwZGF0ZUpvYi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Kurslar/ASP.NET_MVC_CORE/MvcProje-MY/NTierOOPApp/NTierOOPApp.Web/Views/Partials/Partial_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcUGFydGlhbF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
