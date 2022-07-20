@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DsdMst1hja6k5lFwm2s0i2o5Y/V9jpxEXC8eWI96z+XYhLWRR1jVoGY7wFlG368Dj/fYwvW8QFw74fwPQ6z/rQ==",
+  "dgSpecHash": "9puYzfo6TRcbkT7j2Jg5IYrT2VMRAzurMnOnIALFS5QIhq1JnsLGVHf86pBB1mprqFHbN5F9YmMIB+ByduMX/g==",
   "success": true,
-  "projectFilePath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\MvcProje-MY\\NTierOOPApp\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\OOP_Project\\NTierOOPApp\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\firatalcin\\.nuget\\packages\\fluentvalidation\\11.0.0\\fluentvalidation.11.0.0.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.0.0\\fluentvalidation.aspnetcore.11.0.0.nupkg.sha512",

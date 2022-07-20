@@ -9626,11 +9626,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kurslar\\ASP.NET_MVC_CORE\\MvcProje-MY\\NTierOOPApp\\NTierOOPApp.Web\\NTierOOPApp.Web.csproj",
+      "projectUniqueName": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\OOP_Project\\NTierOOPApp\\NTierOOPApp.Web\\NTierOOPApp.Web.csproj",
       "projectName": "NTierOOPApp.Web",
-      "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\MvcProje-MY\\NTierOOPApp\\NTierOOPApp.Web\\NTierOOPApp.Web.csproj",
+      "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\OOP_Project\\NTierOOPApp\\NTierOOPApp.Web\\NTierOOPApp.Web.csproj",
       "packagesPath": "C:\\Users\\firatalcin\\.nuget\\packages\\",
-      "outputPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\MvcProje-MY\\NTierOOPApp\\NTierOOPApp.Web\\obj\\",
+      "outputPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\OOP_Project\\NTierOOPApp\\NTierOOPApp.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9651,8 +9651,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Kurslar\\ASP.NET_MVC_CORE\\MvcProje-MY\\NTierOOPApp\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\MvcProje-MY\\NTierOOPApp\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\OOP_Project\\NTierOOPApp\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\OOP_Project\\NTierOOPApp\\BusinessLayer\\BusinessLayer.csproj"
             }
           }
         }

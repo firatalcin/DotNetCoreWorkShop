@@ -17,6 +17,12 @@
         <input asp-for="City" type="text" class="form-control" />
         <span style="color:red" asp-validation-for="City"></span>
     </div>
+    <div>
+        <label asp-for="JobId">Meslek</label>
+        <select asp-for="JobId" asp-items="ViewBag.v" class="form-select">
+            <option>Seçim Yapınız</option>
+        </select>
+    </div>
     <div style="margin-top:10px">
         <button type="submit" class="btn btn-success">Kaydet</button>
     </div>

@@ -12,8 +12,19 @@
     <partial name="~/Views/Partials/Partial_Sidebar.cshtml" />
 
     <div class="content">
-        @RenderBody()
+        <main>
+            <div class="container-fluid px-4">
+                @RenderBody()
+            </div>
+        </main>
+        <div class="bottom-0 position-fixed">
+            <partial name="~/Views/Partials/Partial_Footer.cshtml"></partial>
+        </div>
+
     </div>
+
+
+
 
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

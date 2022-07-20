@@ -4,12 +4,14 @@ using DataAccessLayer.Repositories;
 using EntityLayer.Concrete;
 using FluentValidation.Results;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace NTierOOPApp.Web.Controllers
 {
     public class CustomerController : Controller
     {
         private CustomerManager customerManager = new(new CustomerDal());
+        private JobManager jobManager = new JobManager(new JobDal());
 
         public IActionResult Index()
         {
@@ -20,6 +22,13 @@ namespace NTierOOPApp.Web.Controllers
         [HttpGet]
         public IActionResult AddCustomer()
         {
+            List<SelectListItem> values = (from x in jobManager.GetAll()
+                                           select new SelectListItem
+                                           {
+                                               Text = x.Name,
+                                               Value = x.Id.ToString()
+                                           }).ToList();
+            ViewBag.v = values;
             return View();
         }
 
@@ -46,6 +55,13 @@ namespace NTierOOPApp.Web.Controllers
         [HttpGet]
         public IActionResult UpdateCustomer(int id)
         {
+            List<SelectListItem> values = (from x in jobManager.GetAll()
+                                           select new SelectListItem
+                                           {
+                                               Text = x.Name,
+                                               Value = x.Id.ToString()
+                                           }).ToList();
+            ViewBag.v = values;
             var customer = customerManager.Get(id);
             return View(customer);
         }

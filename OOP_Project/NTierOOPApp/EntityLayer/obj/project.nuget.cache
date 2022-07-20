@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KWkYGKqNl0nFt8jQRg/39MRXyJ04MbZJHPdxOw3yCe5VtuAZIvcAYYnKcergtVq0Oc+y0RpsN82TuxzMQrKc0A==",
+  "dgSpecHash": "wMbnWEnv4DSt+AH+7F6iWrZyrztUNlxD3FGgXTQxRBc3dw/E2gaTfWUotKKIowNACmN1ubSRQ9inzsJeHjzXrw==",
   "success": true,
-  "projectFilePath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\MvcProje-MY\\NTierOOPApp\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Camp\\OOP_Project\\NTierOOPApp\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.7\\microsoft.entityframeworkcore.6.0.7.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.7\\microsoft.entityframeworkcore.abstractions.6.0.7.nupkg.sha512",
