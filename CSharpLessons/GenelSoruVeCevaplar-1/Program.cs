@@ -9,4 +9,4 @@
     }
 }
 
-// 1 - Namespace nedir : İçerisinde belirli sınıfları taşıyan gerektiğinde kodumuzda kullanacağımız yapılardır.
+// 1 - Namespace nedir : İçerisinde belirli sınıfları taşıyan gerektiğinde kodumuzda kullanarak yararlanacağımız yapılardır.
