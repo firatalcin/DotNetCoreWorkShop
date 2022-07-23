@@ -1,0 +1,15 @@
+D:\Kurslar\ASP.NET_MVC_CORE\CSharpLessons\GenelSoruVeCevaplar-1\bin\Debug\net6.0\GenelSoruVeCevaplar_1.exe
+D:\Kurslar\ASP.NET_MVC_CORE\CSharpLessons\GenelSoruVeCevaplar-1\bin\Debug\net6.0\GenelSoruVeCevaplar_1.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharpLessons\GenelSoruVeCevaplar-1\bin\Debug\net6.0\GenelSoruVeCevaplar_1.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharpLessons\GenelSoruVeCevaplar-1\bin\Debug\net6.0\GenelSoruVeCevaplar_1.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharpLessons\GenelSoruVeCevaplar-1\bin\Debug\net6.0\GenelSoruVeCevaplar_1.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharpLessons\GenelSoruVeCevaplar-1\obj\Debug\net6.0\GenelSoruVeCevaplar_1.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharpLessons\GenelSoruVeCevaplar-1\obj\Debug\net6.0\GenelSoruVeCevaplar_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\CSharpLessons\GenelSoruVeCevaplar-1\obj\Debug\net6.0\GenelSoruVeCevaplar_1.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharpLessons\GenelSoruVeCevaplar-1\obj\Debug\net6.0\GenelSoruVeCevaplar_1.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\CSharpLessons\GenelSoruVeCevaplar-1\obj\Debug\net6.0\GenelSoruVeCevaplar_1.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharpLessons\GenelSoruVeCevaplar-1\obj\Debug\net6.0\GenelSoruVeCevaplar_1.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharpLessons\GenelSoruVeCevaplar-1\obj\Debug\net6.0\refint\GenelSoruVeCevaplar_1.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharpLessons\GenelSoruVeCevaplar-1\obj\Debug\net6.0\GenelSoruVeCevaplar_1.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharpLessons\GenelSoruVeCevaplar-1\obj\Debug\net6.0\GenelSoruVeCevaplar_1.genruntimeconfig.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharpLessons\GenelSoruVeCevaplar-1\obj\Debug\net6.0\ref\GenelSoruVeCevaplar_1.dll
